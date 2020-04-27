@@ -1,0 +1,776 @@
+﻿,property name,property street,property city,property state,property zipcode,Studio,1 Bedroom,2 Bedrooms,3 Bedrooms,Latitude,Longitude,URL
+1,Chestnut Hill Village,7715 Crittenden St,Philadelphia,PA,19118,NA,"$1,227 – 1,699","$1,629 – 2,368","$2,039 – 2,054",40.07447,-75.19484,https://www.apartments.com/chestnut-hill-village-philadelphia-pa/4sbjxeh/
+2,Hanover North Broad,322-344 N Broad St,Philadelphia,PA,19102,"$1,582 – 2,005","$1,701 – 2,742","$2,360 – 3,952","$3,781 – 3,816",39.95934,-75.16261,https://www.apartments.com/hanover-north-broad-philadelphia-pa/540bw8m/
+3,Fallsview Gardens,3026 W Queen Ln,Philadelphia,PA,19129,NA,NA,"$1,250 – 1,550",NA,40.01916,-75.18168,https://www.apartments.com/fallsview-gardens-philadelphia-pa/xk810sq/
+4,The Irvine,780 S 52nd St,Philadelphia,PA,19143,"$1,295 – 1,645","$1,575 – 1,795","$2,095 – 2,345","$2,565 – 2,645",39.94624,-75.22589,https://www.apartments.com/the-irvine-philadelphia-pa/61hve9v/
+5,Brookview Apartments at Elkins Park,1235 Ashbourne Rd,Elkins Park,PA,19027,NA,"$1,215 – 1,525","$1,600 – 1,765","$1,940 – 2,095",40.06646,-75.11785,https://www.apartments.com/brookview-apartments-at-elkins-park-elkins-park-pa/ked8x69/
+6,Lynnewood Gardens,1950 Ashbourne Rd,Elkins Park,PA,19027,NA,"$995 – 1,340","$1,320 – 1,570","$1,800 – 1,975",40.07215,-75.14885,https://www.apartments.com/lynnewood-gardens-elkins-park-pa/7bjgd3y/
+7,Colonial Point Apartments,2555 Old Trevose Rd,Feasterville Trevose,PA,19053,"$920 – 1,250","$995 – 1,600","$1,230 – 1,510",NA,40.12211,-74.97351,https://www.apartments.com/colonial-point-apartments-feasterville-trevose-pa/sd0qgc7/
+8,Henry on the Park Apartment Homes,7901 Henry Ave,Philadelphia,PA,19128,Call for Rent,"$1,260 – 1,976","$1,375 – 2,373","$1,640 – 2,512",40.05648,-75.2316,https://www.apartments.com/henry-on-the-park-apartment-homes-philadelphia-pa/8fjme23/
+9,1200 Washington,1200 Washington Ave,Philadelphia,PA,19147,"$1,375","$1,652 – 1,727","$2,167",NA,39.93716,-75.16334,https://www.apartments.com/1200-washington-philadelphia-pa/3r6jt4d/
+10,The Girard,1199 Ludlow St,Philadelphia,PA,19107,NA,"$2,220 – 3,085","$3,285 – 4,675",NA,39.95152,-75.15957,https://www.apartments.com/the-girard-philadelphia-pa/xhslt9m/
+11,The Hub At 31 Brewerytown,1410 N 31st St,Philadelphia,PA,19121,"$1,324 – 1,440","$1,492 – 1,814","$2,140 – 2,455",NA,39.9784,-75.18627,https://www.apartments.com/the-hub-at-31-brewerytown-philadelphia-pa/m3558gl/
+12,The Pointe,1415 N 31st St,Philadelphia,PA,19121,NA,"$1,569 – 1,794","$2,340",NA,39.97851,-75.18551,https://www.apartments.com/the-pointe-philadelphia-pa/f7p4zcs/
+13,777 South Broad,777 S Broad St,Philadelphia,PA,19147,NA,Call for Rent,"$2,466 – 13,099",NA,39.94122,-75.16568,https://www.apartments.com/777-south-broad-philadelphia-pa/vfpmd3f/
+14,Falls Village,2991 W School House Ln,Philadelphia,PA,19144,NA,"$1,365 – 1,875","$1,425 – 1,950","$1,812 – 1,942",40.02528,-75.18656,https://www.apartments.com/falls-village-philadelphia-pa/bpbz8k9/
+15,Lincoln Green,4000-4040 Presidential Blvd,Philadelphia,PA,19131,NA,"$1,110 – 1,525","$1,610 – 1,725",NA,40.00592,-75.21015,https://www.apartments.com/lincoln-green-philadelphia-pa/wg5fjpl/
+16,The Point At Rittenhouse Row,1601 Sansom St,Philadelphia,PA,19103,NA,"$1,463 – 2,647","$2,266 – 2,996",NA,39.95065,-75.16766,https://www.apartments.com/the-point-at-rittenhouse-row-philadelphia-pa/575estn/
+17,The Ludlow,1101 Ludlow St,Philadelphia,PA,19107,"$1,695 – 2,000","$1,500 – 2,825","$2,800 – 3,835",NA,39.95149,-75.15866,https://www.apartments.com/the-ludlow-philadelphia-pa/lpm616f/
+18,Enclaves,3900 Gateway Dr,Philadelphia,PA,19145,NA,Call for Rent,"$1,520 – 2,767",NA,39.90108,-75.19251,https://www.apartments.com/enclaves-philadelphia-pa/5yqhwcp/
+19,Versailles Apartments,1530 Locust St,Philadelphia,PA,19102,NA,"$2,295 – 2,875","$3,950 – 4,400","$6,995",39.94839,-75.16714,https://www.apartments.com/versailles-apartments-philadelphia-pa/lj0d0yd/
+20,Tower Place,1400 Spring Garden St,Philadelphia,PA,19130,NA,"$1,686 – 2,045","$2,030 – 3,052",NA,39.96201,-75.16225,https://www.apartments.com/tower-place-philadelphia-pa/bex449c/
+21,Rushwood Apartments,10825 E Keswick Rd,Philadelphia,PA,19154,NA,"$1,174 – 1,284","$1,264 – 1,445",NA,40.08126,-74.98363,https://www.apartments.com/rushwood-apartments-philadelphia-pa/g8qsrgz/
+22,The Piazza,1001 N 2nd St,Philadelphia,PA,19123,NA,"$1,805 – 2,095","$2,145 – 2,735",NA,39.96673,-75.13992,https://www.apartments.com/the-piazza-philadelphia-pa/pslb7ts/
+23,YONO,1320 W Somerville Ave,Philadelphia,PA,19141,$847 – 892,"$1,148",NA,NA,40.03459,-75.14417,https://www.apartments.com/yono-philadelphia-pa/fzzev2t/
+24,The Franklin Residences,834 Chestnut St,Philadelphia,PA,19107,NA,"$1,799 – 2,400","$3,332 – 3,525",NA,39.94939,-75.1552,https://www.apartments.com/the-franklin-residences-philadelphia-pa/dbd8hml/
+25,Chestnut Hill Tower,7600 Stenton Ave,Philadelphia,PA,19118,"$1,190 – 1,235",NA,"$1,651 – 1,877",NA,40.07325,-75.19056,https://www.apartments.com/chestnut-hill-tower-philadelphia-pa/txhrqp9/
+26,Tacony Crossing by ONEWALL,155 E Godfrey Ave,Philadelphia,PA,19120,NA,$875 – 999,"$1,100 – 1,300",NA,40.04483,-75.11622,https://www.apartments.com/tacony-crossing-by-onewall-philadelphia-pa/e1djx4m/
+27,Apex Manayunk,4601 Flat Rock Rd,Philadelphia,PA,19127,NA,"$1,744 – 2,702","$2,144 – 3,742","$2,414 – 3,412",40.0291,-75.23162,https://www.apartments.com/apex-manayunk-philadelphia-pa/eym0g5m/
+28,The Commonwealth,1201 Chestnut St,Philadelphia,PA,19107,NA,"$1,795 – 5,080","$2,595 – 5,525",NA,39.95071,-75.16032,https://www.apartments.com/the-commonwealth-philadelphia-pa/mcysbhk/
+29,Rittenhouse Hill,633 W Rittenhouse St,Philadelphia,PA,19144,"$1,125 – 1,245","$1,465 – 1,695","$1,765 – 1,845",NA,40.03108,-75.18618,https://www.apartments.com/rittenhouse-hill-philadelphia-pa/zktw8dw/
+30,The Old Quaker Building,3514 Lancaster Ave,Philadelphia,PA,19104,"$1,450 – 1,565","$1,655 – 1,900","$2,280",NA,39.95811,-75.19348,https://www.apartments.com/the-old-quaker-building-philadelphia-pa/6syn5rv/
+31,Independence Lofts,525-533 N 11th St,Philadelphia,PA,19123,"$1,600 – 2,000",NA,"$1,980 – 2,382",NA,39.96244,-75.15551,https://www.apartments.com/independence-lofts-philadelphia-pa/bxlql0b/
+32,The Point at City Line,6100 City Ave,Philadelphia,PA,19131,NA,"$1,191 – 1,838","$1,532 – 1,874","$2,271 – 2,606",39.99048,-75.2486,https://www.apartments.com/the-point-at-city-line-philadelphia-pa/nqv8lbn/
+33,Cherokee,7715 McCallum St,Philadelphia,PA,19118,NA,"$1,240","$1,460 – 1,820","$2,465",40.0576,-75.20961,https://www.apartments.com/cherokee-philadelphia-pa/bh31d59/
+34,Imperial Towers,3801 Conshohocken Ave,Philadelphia,PA,19131,"$1,090 – 1,410","$1,070 – 1,725","$1,165 – 2,240",NA,40.00377,-75.20576,https://www.apartments.com/imperial-towers-philadelphia-pa/z5m8jhw/
+35,Bridge on Race,205 Race St,Philadelphia,PA,19106,"$1,625 – 2,305","$1,850 – 3,000","$2,805 – 4,160",NA,39.95398,-75.14331,https://www.apartments.com/bridge-on-race-philadelphia-pa/xxf2e4n/
+36,The Avenue at East Falls,5450 Wissahickon Ave,Philadelphia,PA,19144,"$738 – 1,158","$981 – 1,468","$1,209 – 1,651",NA,40.02515,-75.18168,https://www.apartments.com/the-avenue-at-east-falls-philadelphia-pa/y48p92r/
+37,Lincoln Court Apartments,6351 Overbook Ave,Philadelphia,PA,19151,NA,"$1,150 – 1,275","$1,400 – 1,500",NA,39.98767,-75.25213,https://www.apartments.com/lincoln-court-apartments-philadelphia-pa/wpls2mk/
+38,The Granary,1901 Callowhill St,Philadelphia,PA,19130,NA,"$1,581 – 3,045","$2,189 – 5,187","$6,007",39.96084,-75.17045,https://www.apartments.com/the-granary-philadelphia-pa/w082d3k/
+39,1919 Market St.,1919 Market St,Philadelphia,PA,19103,"$1,740 – 2,090","$2,360 – 3,625","$2,915 – 5,095",Call for Rent,39.95378,-75.17271,https://www.apartments.com/1919-market-st-philadelphia-pa/z6xq6wz/
+40,Alden Park,5500 Wissahickon Ave,Philadelphia,PA,19144,"$842 – 3,377","$1,275 – 4,451","$1,294 – 11,392","$2,180 – 7,609",40.02708,-75.18425,https://www.apartments.com/alden-park-philadelphia-pa/83f95m3/
+41,The Dane,2201 Bryn Mawr Ave,Philadelphia,PA,19131,"$1,198 – 1,479","$1,438 – 1,698","$1,595 – 2,211",NA,39.99015,-75.22607,https://www.apartments.com/the-dane-philadelphia-pa/mz3lvnk/
+42,Bala Apartments,4920-4950 City Ave,Philadelphia,PA,19131,$745,"$945 – 1,175","$1,175 – 1,225","$1,625",40.00016,-75.22772,https://www.apartments.com/bala-apartments-philadelphia-pa/jejegh7/
+43,Lincoln Square,1000 S Broad St,Philadelphia,PA,19146,"$1,537 – 2,679","$1,940 – 3,215","$2,692 – 4,142",Call for Rent,39.93837,-75.16754,https://www.apartments.com/lincoln-square-philadelphia-pa/2xrwhkb/
+44,Locust on the Park,201 S 25th St,Philadelphia,PA,19103,"$1,776 – 5,076",Call for Rent,"$2,923 – 9,379",NA,39.94975,-75.18053,https://www.apartments.com/locust-on-the-park-philadelphia-pa/lrk4fcf/
+45,Park Towne Place Apartments,2200 Benjamin Franklin Pky,Philadelphia,PA,19130,"$1,599 – 3,219","$1,802 – 8,682","$2,210 – 27,498","$8,869 – 14,425",39.96055,-75.17773,https://www.apartments.com/park-towne-place-apartments-philadelphia-pa/hczsx91/
+46,Dwell 2nd Street,1300 N 2nd St,Philadelphia,PA,19122,"$1,335 – 1,445","$1,900 – 2,000","$2,360 – 2,605",NA,39.97162,-75.13965,https://www.apartments.com/dwell-2nd-street-philadelphia-pa/hg1zgw1/
+47,Arrive University City,3601 Market St,Philadelphia,PA,19104,"$1,685 – 2,675","$1,840 – 2,649","$3,115 – 4,885",NA,39.95663,-75.19446,https://www.apartments.com/arrive-university-city-philadelphia-pa/yl2tbxt/
+48,1600 Callowhill,1600 Callowhill St,Philadelphia,PA,19130,"$1,990","$2,504",Call for Rent,NA,39.95981,-75.16576,https://www.apartments.com/1600-callowhill-philadelphia-pa/smplw16/
+49,The Hamilton,1520 Hamilton St,Philadelphia,PA,19130,"$1,689 – 1,994","$1,630 – 2,600","$2,235 – 3,287",NA,39.96121,-75.16405,https://www.apartments.com/the-hamilton-philadelphia-pa/jk2rxy5/
+50,The LVL 4125,4125-4136 Chestnut St,Philadelphia,PA,19104,Call for Rent,"$1,965 – 2,860",Call for Rent,NA,39.95626,-75.20552,https://www.apartments.com/the-lvl-4125-philadelphia-pa/w67tywk/
+51,The National,121 N 2nd St,Philadelphia,PA,19106,"$1,991 – 2,066","$2,148 – 2,293","$3,445 – 3,502",NA,39.95233,-75.14281,https://www.apartments.com/the-national-philadelphia-pa/jxddv96/
+52,Vue32,3201 Race St,Philadelphia,PA,19104,NA,"$1,970","$2,710 – 3,065","$5,100",39.95905,-75.18803,https://www.apartments.com/vue32-philadelphia-pa/v60dc8g/
+53,1213 Walnut,1213 Walnut St,Philadelphia,PA,19107,"$1,930 – 2,455","$2,099 – 3,627","$2,951 – 4,066",NA,39.94931,-75.16123,https://www.apartments.com/1213-walnut-philadelphia-pa/851yr90/
+54,View at Old City,401 Race St,Philadelphia,PA,19106,"$1,552 – 2,042","$1,926 – 3,101","$2,746 – 3,974",NA,39.95459,-75.14716,https://www.apartments.com/view-at-old-city-philadelphia-pa/x1bf4wq/
+55,The Pepper Building,1830 Lombard St,Philadelphia,PA,19146,NA,"$1,595 – 2,580","$2,150 – 3,075",NA,39.94542,-75.17294,https://www.apartments.com/the-pepper-building-philadelphia-pa/sr2b9f7/
+56,The Alexander,1601 Vine St,Philadelphia,PA,19102,"$1,704 – 3,861","$2,112 – 4,632","$2,665 – 6,472","$4,476 – 9,415",39.95884,-75.16593,https://www.apartments.com/the-alexander-philadelphia-pa/njfrbjm/
+57,Winchester Walk*,2600 Welsh Rd,Philadelphia,PA,19152,NA,"$1,011 – 1,144","$1,204 – 1,299",NA,40.07113,-75.03252,https://www.apartments.com/winchester-walk-philadelphia-pa/c7hcw7g/
+58,The Collins,1125 Sansom St,Philadelphia,PA,19107,NA,"$1,871 – 2,864","$3,958 – 6,033",NA,39.94991,-75.15945,https://www.apartments.com/the-collins-philadelphia-pa/f79m92r/
+59,Goldtex,315 N 12th St,Philadelphia,PA,19107,"$1,665 – 1,775","$1,895 – 2,605","$2,795 – 3,114",Call for Rent,39.95818,-75.15814,https://www.apartments.com/goldtex-philadelphia-pa/k40zgfc/
+60,International City Apartments,7900 Lindbergh Blvd,Philadelphia,PA,19153,"$900 – 1,353","$950 – 1,400","$1,135 – 1,550",NA,39.90209,-75.24635,https://www.apartments.com/international-city-apartments-philadelphia-pa/bwm4rj9/
+61,Crane Chinatown,1001 Vine St,Philadelphia,PA,19107,"$1,612 – 1,787","$1,757 – 2,287","$2,847 – 2,997",NA,39.95751,-75.15577,https://www.apartments.com/crane-chinatown-philadelphia-pa/j07dm17/
+62,Ridge Carlton Apartments,7373 Ridge Ave,Philadelphia,PA,19128,NA,"$989 – 1,199","$1,279 – 1,431",NA,40.0478,-75.23402,https://www.apartments.com/ridge-carlton-apartments-philadelphia-pa/9beej87/
+63,Adams at Presidential City,3800 City Ave,Philadelphia,PA,19131,"$1,305 – 1,485","$1,665 – 2,015","$1,925 – 2,235","$2,895 – 3,035",40.00826,-75.20561,https://www.apartments.com/adams-at-presidential-city-philadelphia-pa/z2dgeqx/
+64,Jefferson at Presidential City,3900 City Ave,Philadelphia,PA,19131,"$1,295 – 1,495","$1,365 – 1,915","$2,395 – 2,775",NA,40.00843,-75.2071,https://www.apartments.com/jefferson-at-presidential-city-philadelphia-pa/90t98h5/
+65,Washington at Presidential City,3902 City Ave,Philadelphia,PA,19131,"$1,345 – 1,525","$1,475 – 1,885","$2,015 – 2,085",NA,40.00794,-75.2084,https://www.apartments.com/washington-at-presidential-city-philadelphia-pa/g969jkx/
+66,The Atlantic,1401 Spruce St,Philadelphia,PA,19102,"$2,165 – 2,315","$2,295 – 6,395","$3,655 – 6,145","$6,005 – 7,845",39.9473,-75.16508,https://www.apartments.com/the-atlantic-philadelphia-pa/hqf41b0/
+67,Penthouses at Presidential City,76 Winding Dr,Philadelphia,PA,19131,NA,"$2,715 – 2,935","$3,095 – 3,325","$4,535 – 4,735",40.00822,-75.20566,https://www.apartments.com/penthouses-at-presidential-city-philadelphia-pa/79brkfz/
+68,Canterbury Court Apartment Homes,9951 Academy Rd,Philadelphia,PA,19114,NA,"$1,010 – 1,175",NA,NA,40.07619,-75.0001,https://www.apartments.com/canterbury-court-apartment-homes-philadelphia-pa/1n3t3j6/
+69,Madison at Presidential City,3800-3900 City Ave,Philadelphia,PA,19131,"$1,315 – 1,735","$1,480 – 1,915","$1,935 – 2,505","$2,755 – 3,005",40.00822,-75.20968,https://www.apartments.com/madison-at-presidential-city-philadelphia-pa/ry3jv13/
+70,Lyndon At The Curtis,601 Walnut St,Philadelphia,PA,19106,"$2,800","$2,875 – 4,700",NA,NA,39.94788,-75.15137,https://www.apartments.com/lyndon-at-the-curtis-philadelphia-pa/pw2ccrr/
+71,Germantown Square,45-47 West Haines St,Philadelphia,PA,19144,NA,"$1,300 – 1,500","$1,750 – 1,900",NA,40.03787,-75.17781,https://www.apartments.com/germantown-square-philadelphia-pa/jyqqn67/
+72,SDG Residences of Fairmount,745 N 20th St,Philadelphia,PA,19130,NA,"$1,550 – 1,850","$1,900 – 2,500",NA,39.96829,-75.16249,https://www.apartments.com/sdg-residences-of-fairmount-philadelphia-pa/bbz6jk8/
+73,Hamilton Court,3816-3836 S Chestnut St,Philadelphia,PA,19104,NA,"$1,945 – 1,995","$2,845 – 3,095","$3,500 – 3,795",39.95481,-75.19932,https://www.apartments.com/hamilton-court-philadelphia-pa/0pj5gy2/
+74,Palazzo at The Piazza,1050 N Hancock St,Philadelphia,PA,19123,NA,"$2,150 – 2,945","$2,900 – 3,100",NA,39.96675,-75.1392,https://www.apartments.com/palazzo-at-the-piazza-philadelphia-pa/2szmfl9/
+75,West River Apartments,3601 Conshohocken Ave,Philadelphia,PA,19131,NA,"$1,395 – 1,425","$1,625 – 1,710",NA,40.00424,-75.20324,https://www.apartments.com/west-river-apartments-philadelphia-pa/7c47vez/
+76,Liberty Square,1203 Germantown Ave,Philadelphia,PA,19122,NA,"$1,875 – 2,475","$2,450 – 2,995",NA,39.97083,-75.14053,https://www.apartments.com/liberty-square-philadelphia-pa/hy0hmv0/
+77,The Civic,1600-1650 W Girard Ave,Philadelphia,PA,19130,"$1,329 – 1,850","$1,750 – 2,150","$2,292 – 2,521",NA,39.97151,-75.16314,https://www.apartments.com/the-civic-philadelphia-pa/16cseb4/
+78,Diamond Green-Student Housing!!,1000 Diamond St,Philadelphia,PA,19122,NA,NA,NA,NA,39.98361,-75.15002,https://www.apartments.com/diamond-green-student-housing-philadelphia-pa/rx12fs2/
+79,The Station at Manayunk,1 Parker Ave,Philadelphia,PA,19128,NA,"$1,470 – 1,520","$1,964 – 1,994",NA,40.03425,-75.23627,https://www.apartments.com/the-station-at-manayunk-philadelphia-pa/ncwv55n/
+80,The View at Manayunk Apartments,4136-40 Mitchell St,Philadelphia,PA,19128,"$1,295","$1,395 – 1,795","$1,495 – 2,125",NA,40.0269,-75.21192,https://www.apartments.com/the-view-at-manayunk-apartments-philadelphia-pa/rd3g7l0/
+81,"Dobson Studios, Lofts and apartments",4055 Ridge Ave,Philadelphia,PA,19129,"$945 – 1,055","$1,030 – 1,780","$1,430 – 1,980","$2,385 – 2,435",40.00775,-75.18894,https://www.apartments.com/dobson-studios-lofts-and-apartments-philadelphia-pa/z18pmxz/
+82,The Porter,2940 W Thompson St,Philadelphia,PA,19121,"$1,250","$1,400 – 1,700",NA,NA,39.9764,-75.18453,https://www.apartments.com/the-porter-philadelphia-pa/kyf9blc/
+83,Stable Lofts,631 N Broad St,Philadelphia,PA,19123,"$1,750","$1,900 – 2,500","$2,800 – 3,600",NA,39.9645,-75.16052,https://www.apartments.com/stable-lofts-philadelphia-pa/tzp3cnc/
+84,Edgewater Apartments,2323 Race St,Philadelphia,PA,19103,"$1,890 – 1,975","$2,400 – 2,555","$2,665 – 3,365","$4,415",39.95871,-75.17798,https://www.apartments.com/edgewater-apartments-philadelphia-pa/tdb3pqb/
+85,The Wellington,135 S 19th St,Philadelphia,PA,19103,"$1,295","$1,695 – 2,300","$2,750 – 3,200","$7,500",39.95074,-75.17221,https://www.apartments.com/the-wellington-philadelphia-pa/h4qd3v1/
+86,Northbrook Apartment Homes,1340 Stewarts Way,Philadelphia,PA,19154,NA,"$989 – 1,049","$1,169 – 1,219",NA,40.09686,-74.98482,https://www.apartments.com/northbrook-apartment-homes-philadelphia-pa/9mcjb25/
+87,The Mansion at Bala,4700 City Ave,Philadelphia,PA,19131,NA,"$1,345 – 1,815","$1,825 – 2,070","$2,885",40.00113,-75.2252,https://www.apartments.com/the-mansion-at-bala-philadelphia-pa/48hrl8l/
+88,Lennox Apartments,236 W Walnut Ln,Philadelphia,PA,19144,$715 – 755,$825 – 895,NA,NA,40.03645,-75.18273,https://www.apartments.com/lennox-apartments-philadelphia-pa/bm4swb8/
+89,The Legacy at Drexel Arms,6301 Overbrook Ave,Philadelphia,PA,19151,NA,NA,NA,NA,39.98849,-75.2504,https://www.apartments.com/the-legacy-at-drexel-arms-philadelphia-pa/lgelnpg/
+90,The Lofts At Chimney Hill,161 Leverington Ave,Philadelphia,PA,19127,NA,"$1,300 – 1,700","$1,550 – 1,800",NA,40.02987,-75.22745,https://www.apartments.com/the-lofts-at-chimney-hill-philadelphia-pa/cmjwghg/
+91,335 Bala,335 Righters Ferry Rd,Bala Cynwyd,PA,19004,NA,"$1,700 – 2,305","$2,800 – 3,750",NA,40.01059,-75.22003,https://www.apartments.com/335-bala-bala-cynwyd-pa/1z2hmn4/
+92,Salem Harbour,455 Old Bridge Rd,Bensalem,PA,19020,NA,"$1,291 – 1,426","$1,538 – 1,638",NA,40.05504,-74.98002,https://www.apartments.com/salem-harbour-bensalem-pa/h5q6mh3/
+93,The Royal Athena,600 Righters Ferry Rd,Bala Cynwyd,PA,19004,NA,"$1,469 – 3,328","$2,200 – 4,190",NA,40.01728,-75.21557,https://www.apartments.com/the-royal-athena-bala-cynwyd-pa/sy3f9q7/
+94,The Kelly,10 Union Ave,Bala Cynwyd,PA,19004,NA,"$1,700 – 2,147","$2,550 – 3,620","$3,705 – 3,970",40.00317,-75.22993,https://www.apartments.com/the-kelly-bala-cynwyd-pa/hezp011/
+95,Hamilton Court East Apartments,3455 Street Road,Bensalem,PA,19020,NA,"$999 – 1,149","$1,349",NA,40.12427,-74.96165,https://www.apartments.com/hamilton-court-east-apartments-bensalem-pa/1r0mh55/
+96,Towers at Wyncote,8440 Limekiln Pike,Wyncote,PA,19095,"$1,095 – 1,843","$1,270 – 2,530","$1,400 – 4,169","$2,160 – 4,191",40.085,-75.16492,https://www.apartments.com/towers-at-wyncote-wyncote-pa/dk1pfrl/
+97,The Fairmount @ Brewerytown,1363 N 31st St,Philadelphia,PA,19121,"$1,459","$1,447 – 1,748","$1,936 – 2,524",NA,39.97759,-75.18534,https://www.apartments.com/the-fairmount-brewerytown-philadelphia-pa/sdk4z77/
+98,Icon,1616 Walnut St,Philadelphia,PA,19103,"$1,671 – 2,793","$1,444 – 3,277","$3,089 – 4,728","$3,967 – 6,818",39.94955,-75.16845,https://www.apartments.com/icon-philadelphia-pa/6d31ljs/
+99,Greene Manor,239-259 W Johnson St,Philadelphia,PA,19144,$935,"$1,030 – 1,205","$1,170 – 1,445",Call for Rent,40.04175,-75.18711,https://www.apartments.com/greene-manor-philadelphia-pa/91kmnx6/
+100,Franklin Tower Residences,200 N 16th St,Philadelphia,PA,19102,NA,"$1,950 – 2,825","$3,250 – 3,395",NA,39.95717,-75.16628,https://www.apartments.com/franklin-tower-residences-philadelphia-pa/zxjdetx/
+101,One Franklin Town,1 Franklin Town Blvd,Philadelphia,PA,19103,"$1,115","$1,387 – 2,325","$2,140 – 2,182","$3,229",39.95991,-75.16721,https://www.apartments.com/one-franklin-town-philadelphia-pa/pn45x3s/
+102,The Ridge Apartments,7949 Ridge Ave,Philadelphia,PA,19128,NA,"$920 – 1,240","$1,295 – 1,420",NA,40.05535,-75.23493,https://www.apartments.com/the-ridge-apartments-philadelphia-pa/2bx4gb9/
+103,Bromley House,6901-6907 Old York Rd,Philadelphia,PA,19126,Call for Rent,"$1,107 – 1,212","$1,338 – 1,438",NA,40.05786,-75.13841,https://www.apartments.com/bromley-house-philadelphia-pa/2kczhhc/
+104,1500 Locust,1500-1514 Locust St,Philadelphia,PA,19102,"$1,566 – 2,571","$1,692 – 3,404","$2,970 – 5,597","$6,006 – 8,092",39.94833,-75.16669,https://www.apartments.com/1500-locust-philadelphia-pa/y9hc9sv/
+105,Sherwood Crossing Apartments & Townhomes,3400 Red Lion Rd,Philadelphia,PA,19114,Call for Rent,"$985 – 1,850","$1,370 – 2,425",Call for Rent,40.07514,-74.98803,https://www.apartments.com/sherwood-crossing-apartments-townhomes-philadelphia-pa/mhjergl/
+106,The Sansom,1605 Sansom St,Philadelphia,PA,19103,"$1,467 – 1,698","$1,667 – 2,372","$2,872 – 3,017",NA,39.95077,-75.16825,https://www.apartments.com/the-sansom-philadelphia-pa/kd91bx8/
+107,Sedgwick Station,303 E Mt Pleasant Ave,Philadelphia,PA,19119,NA,NA,NA,NA,40.06359,-75.18448,https://www.apartments.com/sedgwick-station-philadelphia-pa/xvqmnqm/
+108,Summit Park Apartments,8201 Henry Ave,Philadelphia,PA,19128,NA,"$1,249","$1,230 – 1,550","$1,957",40.06004,-75.23492,https://www.apartments.com/summit-park-apartments-philadelphia-pa/9zkk8v4/
+109,Rock Hill Apartments,205-215 Rock St,Philadelphia,PA,19128,$945 – 970,"$1,175 – 1,185","$1,380",NA,40.02196,-75.20639,https://www.apartments.com/rock-hill-apartments-philadelphia-pa/nzcsd7q/
+110,The Flats at 31 Brewerytown,3100 W Thompson St,Philadelphia,PA,19121,NA,"$1,306 – 1,642","$1,910 – 2,305",NA,39.97663,-75.18679,https://www.apartments.com/the-flats-at-31-brewerytown-philadelphia-pa/mhxt3vl/
+111,AQ Rittenhouse,2021 Chestnut St,Philadelphia,PA,19103,"$1,679 – 1,839","$1,729 – 1,789","$2,282 – 2,909",NA,39.95242,-75.17426,https://www.apartments.com/aq-rittenhouse-philadelphia-pa/16wpkk4/
+112,The Drake,1512 Spruce St,Philadelphia,PA,19102,"$1,052 – 1,596","$1,113 – 4,096","$2,005 – 7,600","$3,118 – 6,546",39.94695,-75.16721,https://www.apartments.com/the-drake-philadelphia-pa/k2h3vzb/
+113,Vista,2805 N 47th St,Philadelphia,PA,19131,NA,"$1,185 – 1,620","$1,595 – 2,470",Call for Rent,40.00175,-75.22306,https://www.apartments.com/vista-philadelphia-pa/kybykf8/
+114,Brookmont Apartment Homes,600 Red Lion Rd,Philadelphia,PA,19115,NA,"$1,055 – 1,835","$1,280 – 2,195",NA,40.10662,-75.03676,https://www.apartments.com/brookmont-apartment-homes-philadelphia-pa/yszbrkt/
+115,Algon Flats,7810-7820 Algon,Philadelphia,PA,19111,"$1,029","$1,129 – 1,179","$1,330 – 1,355",NA,40.0629,-75.06678,https://www.apartments.com/algon-flats-philadelphia-pa/dtl1llj/
+116,Wynnefield Terrace,4991 Parkside Ave N,Philadelphia,PA,19131,NA,NA,"$1,085 – 1,245",NA,39.9884,-75.22497,https://www.apartments.com/wynnefield-terrace-philadelphia-pa/58e24zq/
+117,NorthXNorthwest,450 N 18th St,Philadelphia,PA,19130,"$1,245 – 3,194","$1,604 – 4,635","$1,996 – 6,879",NA,39.96264,-75.16819,https://www.apartments.com/northxnorthwest-philadelphia-pa/3q4dq5e/
+118,The Lofts at 1835 Arch,1835 Arch St,Philadelphia,PA,19103,NA,"$1,660 – 3,537","$2,685 – 4,638",NA,39.9556,-75.17081,https://www.apartments.com/the-lofts-at-1835-arch-philadelphia-pa/2e1byf8/
+119,The Arch,1701 Arch St,Philadelphia,PA,19103,NA,"$1,785 – 1,875","$2,355 – 2,550",NA,39.95529,-75.16814,https://www.apartments.com/the-arch-philadelphia-pa/vgc74ng/
+120,Lofts at Logan View,1666-1666 Callowhill St,Philadelphia,PA,19130,Call for Rent,"$1,675 – 1,920","$2,100 – 2,225",NA,39.9599,-75.16651,https://www.apartments.com/lofts-at-logan-view-philadelphia-pa/60qcywt/
+121,the metropolitan bala,2746 Belmont Ave,Philadelphia,PA,19131,"$1,110 – 1,130","$1,210 – 1,385","$1,540 – 1,720",NA,40.00084,-75.22059,https://www.apartments.com/the-metropolitan-bala-philadelphia-pa/h9lewm1/
+122,Hill House,201 W Evergreen Ave,Philadelphia,PA,19118,"$1,317 – 2,214","$1,862 – 3,169",Call for Rent,Call for Rent,40.07415,-75.21028,https://www.apartments.com/hill-house-philadelphia-pa/930jrs4/
+123,2116 Chestnut,2116 Chestnut St,Philadelphia,PA,19103,"$2,205 – 5,500","$2,554 – 7,212","$3,694 – 11,699",NA,39.95212,-75.17657,https://www.apartments.com/2116-chestnut-philadelphia-pa/w8xrmsk/
+124,222 Rittenhouse,222 W Rittenhouse Sq,Philadelphia,PA,19103,"$1,595","$2,020 – 2,310",Call for Rent,Call for Rent,39.94917,-75.1732,https://www.apartments.com/222-rittenhouse-philadelphia-pa/tfkv6e8/
+125,THE GRIFFIN CENTER CITY,1338-1348 Chestnut St,Philadelphia,PA,19107,"$1,525","$2,090 – 4,890","$3,580 – 4,800",NA,39.95062,-75.16358,https://www.apartments.com/the-griffin-center-city-philadelphia-pa/7d7rbbx/
+126,The Republic,1930 Chestnut St,Philadelphia,PA,19103,"$1,865","$1,690 – 3,435",Call for Rent,NA,39.95181,-75.17336,https://www.apartments.com/the-republic-philadelphia-pa/vv2dfge/
+127,AKA University City,2929 Walnut St,Philadelphia,PA,19104,"$2,750","$2,750 – 4,500","$3,550 – 6,200",NA,39.95211,-75.18362,https://www.apartments.com/aka-university-city-philadelphia-pa/5r4q7dn/
+128,Dalian on the Park,501 N 22nd St,Philadelphia,PA,19130,Call for Rent,"$2,765 – 3,821","$3,856 – 4,844",NA,39.96326,-75.17386,https://www.apartments.com/dalian-on-the-park-philadelphia-pa/n3k3jhm/
+129,Oxford House Apartments,6451-6461 Oxford Ave,Philadelphia,PA,19111,NA,"$1,010 – 1,115","$1,275","$1,500",40.04626,-75.08634,https://www.apartments.com/oxford-house-apartments-philadelphia-pa/b0sj6x9/
+130,Falls Bridge Lofts,4328 Ridge Ave,Philadelphia,PA,19129,"$1,350","$1,525","$1,900 – 2,000",NA,40.01004,-75.19816,https://www.apartments.com/falls-bridge-lofts-philadelphia-pa/vwnwvqe/
+131,Regency Townhomes,3501 Woodhaven Rd,Philadelphia,PA,19154,NA,NA,"$1,229 – 1,279","$1,329 – 1,379",40.094,-74.97826,https://www.apartments.com/regency-townhomes-philadelphia-pa/qwk134z/
+132,Park Heights Apartments,5555 Wissahickon Ave,Philadelphia,PA,19144,$775 – 975,"$925 – 1,200","$1,265 – 1,600","$1,650 – 1,900",40.02722,-75.18252,https://www.apartments.com/park-heights-apartments-philadelphia-pa/l3l449d/
+133,the metropolitan roxborough,7841 Ridge Ave,Philadelphia,PA,19128,NA,"$1,105 – 1,245","$1,300 – 1,400",NA,40.05371,-75.23563,https://www.apartments.com/the-metropolitan-roxborough-philadelphia-pa/g8y20sx/
+134,Holme Circle Apartments,2800 Axe Factory Rd,Philadelphia,PA,19152,NA,$925,"$1,100 – 1,150",NA,40.05784,-75.02978,https://www.apartments.com/holme-circle-apartments-philadelphia-pa/qv0kkwx/
+135,Pelham Court Apartments,6803 Emlen St,Philadelphia,PA,19119,NA,NA,"$1,398",NA,40.05002,-75.19035,https://www.apartments.com/pelham-court-apartments-philadelphia-pa/v2pbmwf/
+136,Green Street Apartments,2113 Green St,Philadelphia,PA,19130,NA,"$1,250 – 1,400","$1,700 – 1,750",NA,39.96549,-75.17311,https://www.apartments.com/green-street-apartments-philadelphia-pa/h9h3jz0/
+137,1700 Walnut Street,1700 Walnut St,Philadelphia,PA,19103,NA,"$1,525 – 2,200","$2,600 – 3,100",NA,39.94966,-75.16933,https://www.apartments.com/1700-walnut-street-philadelphia-pa/6x57ykt/
+138,Montclair Duplex Apartments,8526 Alicia St,Philadelphia,PA,19111,NA,NA,"$1,085 – 1,095",NA,40.083,-75.07421,https://www.apartments.com/montclair-duplex-apartments-philadelphia-pa/y7jtpvt/
+139,Furnished Rittenhouse Square One Bedroom,250 S 17th St,Philadelphia,PA,19103,NA,"$2,000 – 2,300",NA,NA,39.94834,-75.16962,https://www.apartments.com/furnished-rittenhouse-square-one-bedroom-philadelphia-pa/9s86gs4/
+140,The Axis,20 S 36th St,Philadelphia,PA,19104,"$850 – 1,300",NA,NA,NA,39.95519,-75.19461,https://www.apartments.com/the-axis-philadelphia-pa/lwqxhqd/
+141,The Palmer,18 E Lancaster Ave,Wynnewood,PA,19096,NA,"$1,400 – 1,890","$1,550 – 2,425","$3,100 – 3,500",39.98843,-75.25552,https://www.apartments.com/the-palmer-wynnewood-pa/7s6eesx/
+142,Grandview Gardens Apartments,957 Bristol Pike,Bensalem,PA,19020,NA,"$845 – 1,320","$1,045 – 1,635",NA,40.06607,-74.97041,https://www.apartments.com/grandview-gardens-apartments-bensalem-pa/8bmf3t0/
+143,Village Square Apartments,1600 Brookwood Dr,Bensalem,PA,19020,NA,"$1,050 – 1,585","$1,170 – 1,670",NA,40.09475,-74.94005,https://www.apartments.com/village-square-apartments-bensalem-pa/r5bn5g3/
+144,Lincoln Woods,9801 Germantown Pike,Lafayette Hill,PA,19444,NA,"$1,350 – 1,610","$1,830 – 2,035",NA,40.08666,-75.23069,https://www.apartments.com/lincoln-woods-lafayette-hill-pa/65033mv/
+145,Knights Crossing,3404 Knights Rd,Bensalem,PA,19020,NA,$925 – 935,"$1,100 – 1,130",NA,40.11209,-74.94605,https://www.apartments.com/knights-crossing-bensalem-pa/9yxv4h7/
+146,11 Cooper,11 Cooper St,Camden,NJ,08102,"$995 – 1,260","$1,095 – 2,850","$1,950 – 2,170",NA,39.94868,-75.12844,https://www.apartments.com/11-cooper-camden-nj/tgslg68/
+147,Bensalem Commons Apartments,944 Station Ave,Bensalem,PA,19020,NA,NA,NA,NA,40.07488,-74.95316,https://www.apartments.com/bensalem-commons-apartments-bensalem-pa/rp4v6g3/
+148,Copley Manor Apartments,121-123 W Tulpehocken St,Philadelphia,PA,19144,NA,$895,NA,NA,40.03994,-75.18266,https://www.apartments.com/copley-manor-apartments-philadelphia-pa/nset86q/
+149,Rittenhouse Claridge,201 S 18th St,Philadelphia,PA,19103,"$1,430 – 2,790","$1,850 – 3,980","$3,120 – 4,360",Call for Rent,39.94979,-75.1704,https://www.apartments.com/rittenhouse-claridge-philadelphia-pa/dk9gwtl/
+150,Touraine,1520 Spruce St,Philadelphia,PA,19102,"$1,775 – 2,105","$2,000 – 4,500","$4,035 – 6,195","$6,765 – 7,765",39.94689,-75.16768,https://www.apartments.com/touraine-philadelphia-pa/7fs0qcy/
+151,Garden Court Plaza Apartments,4701 Pine St,Philadelphia,PA,19143,"$1,045 – 1,695","$1,470 – 2,235","$1,595 – 3,015","$2,045 – 3,215",39.95261,-75.21676,https://www.apartments.com/garden-court-plaza-apartments-philadelphia-pa/8ws64l2/
+152,Chestnut Hall Apartments,3900 Chestnut St,Philadelphia,PA,19104,"$1,169 – 3,155","$1,454 – 4,028","$1,629 – 2,714",NA,39.95496,-75.20035,https://www.apartments.com/chestnut-hall-apartments-philadelphia-pa/38kt07e/
+153,The Left Bank Apartments,3131 Walnut St,Philadelphia,PA,19104,Call for Rent,"$2,139 – 6,353",Call for Rent,"$4,014 – 6,177",39.95287,-75.18738,https://www.apartments.com/the-left-bank-apartments-philadelphia-pa/eyzwdvp/
+154,Hathaway House,515 W Chelten Ave,Philadelphia,PA,19144,"$1,137","$1,266 – 1,459","$1,468 – 1,756","$1,673 – 1,806",40.02777,-75.18353,https://www.apartments.com/hathaway-house-philadelphia-pa/kst7mfc/
+155,Hampton Gardens Apartments,13451 Philmont Ave,Philadelphia,PA,19116,$785,NA,"$990 – 1,150",NA,40.13164,-75.0158,https://www.apartments.com/hampton-gardens-apartments-philadelphia-pa/f7vw03t/
+156,Leverington Court Apartments,631 Leverington Ave,Philadelphia,PA,19128,$915,"$1,230 – 1,330","$1,400",NA,40.03745,-75.21236,https://www.apartments.com/leverington-court-apartments-philadelphia-pa/5r9pdlm/
+157,Dupont Towers,6100 Henry Ave,Philadelphia,PA,19128,NA,"$1,475","$1,650",NA,40.03747,-75.21135,https://www.apartments.com/dupont-towers-philadelphia-pa/drqrhcj/
+158,Fountain Gardens,2901 Welsh Rd,Philadelphia,PA,19152,Call for Rent,"$825 – 1,336",Call for Rent,NA,40.06171,-75.02734,https://www.apartments.com/fountain-gardens-philadelphia-pa/636stft/
+159,The Glen at Shawmont Station Apartment Homes,300 Autumn River Run,Philadelphia,PA,19128,NA,"$1,365 – 2,765","$1,585 – 2,595",NA,40.04601,-75.24601,https://www.apartments.com/the-glen-at-shawmont-station-apartment-homes-philadelphia-pa/0etpg23/
+160,Westbury,271 S 15th St,Philadelphia,PA,19102,"$1,220 – 1,340","$1,430 – 1,550","$1,820 – 1,940",NA,39.94742,-75.16626,https://www.apartments.com/westbury-philadelphia-pa/wm05w9h/
+161,Joshua House,2607 Welsh Rd,Philadelphia,PA,19114,NA,"$960 – 1,713","$1,110 – 1,909",Call for Rent,40.06785,-75.02876,https://www.apartments.com/joshua-house-philadelphia-pa/kkk7jbb/
+162,Mt. Airy Place (formerly Mt. Airy Arms),1651-1651 E Mt Airy Ave,Philadelphia,PA,19150,Call for Rent,$932,"$1,050 – 1,210",NA,40.0806,-75.17057,https://www.apartments.com/mt-airy-place-formerly-mt-airy-arms-philadelphia-pa/7lhg6my/
+163,Sedgwick Gardens,440 W Sedgwick St,Philadelphia,PA,19119,NA,"$1,236",Call for Rent,NA,40.04883,-75.19467,https://www.apartments.com/sedgwick-gardens-philadelphia-pa/29j1gnc/
+164,The Isle,1 Cotton St,Philadelphia,PA,19127,"$1,634","$1,730 – 1,943","$2,320 – 2,600",NA,40.02487,-75.22412,https://www.apartments.com/the-isle-philadelphia-pa/py315bs/
+165,Valley High Apartments,7950 Henry Ave,Philadelphia,PA,19128,NA,"$1,165 – 1,200","$1,275 – 1,435",NA,40.05653,-75.23348,https://www.apartments.com/valley-high-apartments-philadelphia-pa/4s1f6qh/
+166,Gateway Towers,3600 Gateway Dr,Philadelphia,PA,19145,NA,"$965 – 1,843","$1,425 – 2,435",NA,39.90598,-75.19166,https://www.apartments.com/gateway-towers-philadelphia-pa/yesvz7v/
+167,Forest Station Apartments,450 W Byberry Rd,Philadelphia,PA,19116,NA,"$1,160","$1,040 – 1,440","$1,550",40.12449,-75.01876,https://www.apartments.com/forest-station-apartments-philadelphia-pa/2k5lf09/
+168,The Packard Motor Car Building,317-321 N Broad St,Philadelphia,PA,19107,Call for Rent,"$1,695 – 1,915",Call for Rent,NA,39.95857,-75.16151,https://www.apartments.com/the-packard-motor-car-building-philadelphia-pa/561epbq/
+169,Woodmere,8200 Henry Ave,Philadelphia,PA,19128,NA,"$1,233","$1,425 – 1,485",NA,40.05985,-75.23766,https://www.apartments.com/woodmere-philadelphia-pa/1e5l5h6/
+170,The Sterling,1815 John F Kennedy Blvd,Philadelphia,PA,19103,"$1,824 – 4,244","$2,104 – 5,334","$3,059 – 6,826",Call for Rent,39.9545,-75.17041,https://www.apartments.com/the-sterling-philadelphia-pa/crkk3bg/
+171,Haverford Court,7400 Haverford Ave,Philadelphia,PA,19151,NA,"$1,203","$1,225 – 1,325",NA,39.97572,-75.26412,https://www.apartments.com/haverford-court-philadelphia-pa/djqbvgj/
+172,Atrium Apartments,2555 Welsh Rd,Philadelphia,PA,19114,NA,"$995 – 1,045","$1,195",NA,40.06883,-75.02974,https://www.apartments.com/atrium-apartments-philadelphia-pa/sl2bfg5/
+173,Ridge Court Apartments,7014 Ridge Ave,Philadelphia,PA,19128,NA,"$1,075 – 1,100","$1,230 – 1,280",NA,40.04395,-75.22908,https://www.apartments.com/ridge-court-apartments-philadelphia-pa/1fjwpm6/
+174,The Apartments At Delaire Landing,9355 State Rd,Philadelphia,PA,19114,NA,"$1,144 – 1,214","$1,302 – 1,412",NA,40.04769,-74.99015,https://www.apartments.com/the-apartments-at-delaire-landing-philadelphia-pa/kl6x868/
+175,Bryn Mawr Suites Apartments,5100 Lebanon Ave,Philadelphia,PA,19131,NA,$945,NA,NA,39.98882,-75.22713,https://www.apartments.com/bryn-mawr-suites-apartments-philadelphia-pa/dxf7etj/
+176,Fairview Arms Apartments,5201-5219 Wynnefield Ave,Philadelphia,PA,19131,NA,NA,NA,"$1,815",39.99231,-75.23079,https://www.apartments.com/fairview-arms-apartments-philadelphia-pa/9m9lkx6/
+177,The Cornerstone,400 S 48th St,Philadelphia,PA,19143,NA,$825 – 950,"$1,225 – 1,300",NA,39.95232,-75.21884,https://www.apartments.com/the-cornerstone-philadelphia-pa/2lhplp8/
+178,U City Flats,4612-4620 Sansom St,Philadelphia,PA,19139,NA,NA,"$1,650 – 1,725","$2,000",39.95614,-75.21429,https://www.apartments.com/u-city-flats-philadelphia-pa/ncc6h5m/
+179,Regency Park,800 Cottman Ave,Philadelphia,PA,19111,Call for Rent,"$1,098 – 1,447","$1,224 – 1,871",Call for Rent,40.06264,-75.08666,https://www.apartments.com/regency-park-philadelphia-pa/7ezzbgx/
+180,7400 Roosevelt,7400 Roosevelt Blvd,Philadelphia,PA,19152,NA,"$1,045 – 1,964","$1,255 – 2,252",NA,40.04757,-75.05287,https://www.apartments.com/7400-roosevelt-philadelphia-pa/csshb4e/
+181,Carlton Park,2920 Midvale Ave,Philadelphia,PA,19129,NA,Call for Rent,"$1,250 – 1,500",Call for Rent,40.0221,-75.18027,https://www.apartments.com/carlton-park-philadelphia-pa/30psygg/
+182,The Metropolitan,117 N 15th St,Philadelphia,PA,19102,"$1,595 – 1,735","$1,750 – 2,205",Call for Rent,Call for Rent,39.95515,-75.16459,https://www.apartments.com/the-metropolitan-philadelphia-pa/fmqqvsr/
+183,The Riverloft,2300 Walnut St,Philadelphia,PA,19103,Call for Rent,"$2,475 – 5,591",NA,"$4,511 – 6,189",39.951,-75.17892,https://www.apartments.com/the-riverloft-philadelphia-pa/jjsmwp7/
+184,Melrose Park Manor,210 W Cheltenham Ave,Philadelphia,PA,19126,NA,$844,$946,NA,40.05311,-75.12265,https://www.apartments.com/melrose-park-manor-philadelphia-pa/bx7y4db/
+185,Westfield Apartments,2237 Bryn Mawr Ave,Philadelphia,PA,19131,NA,"$835 – 1,300","$1,050 – 1,550",NA,39.99219,-75.22627,https://www.apartments.com/westfield-apartments-philadelphia-pa/4yemsch/
+186,Donna Court Apartments,631 Dupont St,Philadelphia,PA,19128,NA,"$954 – 1,203","$1,082 – 1,371",NA,40.03644,-75.21185,https://www.apartments.com/donna-court-apartments-philadelphia-pa/tv4yp6b/
+187,Chestnut Terrace Apartments,7412 Stenton Ave,Philadelphia,PA,19150,NA,"$1,064","$1,225 – 1,445",NA,40.07087,-75.18613,https://www.apartments.com/chestnut-terrace-apartments-philadelphia-pa/f5c586v/
+188,Lions Gate Apartments,10101 Northeast Ave,Philadelphia,PA,19116,NA,$975,"$1,225 – 1,350",NA,40.102,-75.02607,https://www.apartments.com/lions-gate-apartments-philadelphia-pa/qtnh17z/
+189,Canterbury Apartments,33 E Roumfort Rd,Philadelphia,PA,19119,NA,NA,"$1,250 – 1,550",NA,40.06588,-75.19453,https://www.apartments.com/canterbury-apartments-philadelphia-pa/v21sn8d/
+190,Ridgeview Apartments,6725 Ridge Ave,Philadelphia,PA,19128,NA,"$1,296 – 1,346","$1,360 – 1,422",NA,40.04148,-75.22438,https://www.apartments.com/ridgeview-apartments-philadelphia-pa/tsg2l5c/
+191,www.carriagehousephilly.com,3500 Powelton Ave,Philadelphia,PA,19104,NA,NA,NA,NA,39.95963,-75.19304,https://www.apartments.com/wwwcarriagehousephillycom-philadelphia-pa/bmjte18/
+192,the metropolitan wynnefield,5000 Woodbine Ave,Philadelphia,PA,19131,NA,"$999 – 1,265","$1,199 – 1,450",NA,39.9952,-75.22617,https://www.apartments.com/the-metropolitan-wynnefield-philadelphia-pa/s3qjyr4/
+193,Hagert Lofts,1821 E Hagert St,Philadelphia,PA,19125,NA,"$1,315 – 1,495","$1,545 – 1,645",NA,39.98637,-75.13014,https://www.apartments.com/hagert-lofts-philadelphia-pa/kyh9jbc/
+194,Domus,3411 Chestnut St,Philadelphia,PA,19104,NA,"$2,724 – 5,025",Call for Rent,Call for Rent,39.95494,-75.19302,https://www.apartments.com/domus-philadelphia-pa/mrvbv0l/
+195,Scotts Mills,3510-3530 Scotts Ln,Philadelphia,PA,19129,Call for Rent,Call for Rent,"$1,795 – 1,995",Call for Rent,40.00748,-75.18656,https://www.apartments.com/scotts-mills-philadelphia-pa/zcppnly/
+196,Academia Suites,1100 W Godfrey St,Philadelphia,PA,19141,$824 – 965,$875 – 905,NA,NA,40.04662,-75.13809,https://www.apartments.com/academia-suites-philadelphia-pa/bt3shz9/
+197,The Chocolate Works,231-247 N 3rd St,Philadelphia,PA,19106,NA,"$1,570 – 2,005","$2,480 – 2,700",NA,39.95499,-75.144,https://www.apartments.com/the-chocolate-works-philadelphia-pa/3b90emf/
+198,The Plaza,2350 Tremont St,Philadelphia,PA,19115,$800 – 825,Call for Rent,"$1,260","$1,300 – 1,375",40.07316,-75.03803,https://www.apartments.com/the-plaza-philadelphia-pa/q9kqs5z/
+199,The Towers,2375 Woodward St,Philadelphia,PA,19115,Call for Rent,Call for Rent,"$1,150 – 1,350",NA,40.07236,-75.0389,https://www.apartments.com/the-towers-philadelphia-pa/hlg04t3/
+200,Wadsworth Manor,1100-1117 E Mount Airy Ave,Philadelphia,PA,19150,NA,$725,$825,NA,40.07195,-75.17772,https://www.apartments.com/wadsworth-manor-philadelphia-pa/7nqmfbz/
+201,1035 Spruce St Unit 105,1035 Spruce St Unit 105,Philadelphia,PA,19107,NA,NA,"$2,700",NA,39.94658,-75.15925,https://www.apartments.com/1035-spruce-st-philadelphia-pa-unit-105/kld9bec/
+202,Cloverly Park Apartments,437-445 W School House Ln,Philadelphia,PA,19144,"$975 – 1,075","$1,100 – 1,215",NA,NA,40.02663,-75.18107,https://www.apartments.com/cloverly-park-apartments-philadelphia-pa/74bb81y/
+203,Roosevelt,2220 Walnut St,Philadelphia,PA,19103,"$1,280 – 1,325","$1,420 – 1,695",NA,NA,39.95091,-75.17836,https://www.apartments.com/roosevelt-philadelphia-pa/kwhwv29/
+204,Keppoch House,412-426 S 13th St,Philadelphia,PA,19147,"$1,565 – 1,960","$1,515 – 1,560","$2,995",NA,39.94485,-75.1633,https://www.apartments.com/keppoch-house-philadelphia-pa/jcr30n4/
+205,Ambassador Apartments,851 Red Lion Rd,Philadelphia,PA,19115,NA,"$1,069 – 1,138","$1,299 – 1,378",NA,40.10487,-75.02927,https://www.apartments.com/ambassador-apartments-philadelphia-pa/zhlbp7y/
+206,Spruce Apartments,1023-1028 Spruce St,Philadelphia,PA,19107,"$1,200 – 1,450","$1,750",NA,NA,39.94615,-75.15909,https://www.apartments.com/spruce-apartments-philadelphia-pa/zx0n4dx/
+207,Netherlands,4300 Chestnut St,Philadelphia,PA,19104,NA,"$1,038 – 1,325","$1,243 – 1,500","$1,500 – 1,750",39.95626,-75.20916,https://www.apartments.com/netherlands-philadelphia-pa/1mv74l5/
+208,801 S 47th St,801 S 47th St,Philadelphia,PA,19143,NA,"$1,400","$1,550 – 1,750","$1,900 – 2,100",39.94837,-75.21642,https://www.apartments.com/801-s-47th-st-philadelphia-pa/7p97m2x/
+209,Walnut Court Apartments,685 W Walnut Ln,Philadelphia,PA,19144,NA,"$1,095 – 1,175","$1,345",NA,40.02843,-75.20576,https://www.apartments.com/walnut-court-apartments-philadelphia-pa/gmny23z/
+210,Rittenhouse Square,1501 Locust St,Philadelphia,PA,19102,NA,"$2,285 – 2,340","$2,586 – 2,940",NA,39.94859,-75.16639,https://www.apartments.com/rittenhouse-square-philadelphia-pa/6bkdzfv/
+211,The Umbrella Building,1401 N 5th St,Philadelphia,PA,19122,"$1,260 – 1,485","$1,560 – 1,725","$2,075 – 2,300",NA,39.97309,-75.14414,https://www.apartments.com/the-umbrella-building-philadelphia-pa/pr88lzt/
+212,1 Brown,1 Brown St,Philadelphia,PA,19123,"$1,008 – 1,635","$1,500 – 2,428","$2,300 – 3,598","$2,750 – 5,538",39.9623,-75.13721,https://www.apartments.com/1-brown-philadelphia-pa/6fxklcs/
+213,6161 Ridge,6161 Ridge Ave,Philadelphia,PA,19128,NA,"$1,425 – 1,475","$1,695",NA,40.03532,-75.21664,https://www.apartments.com/6161-ridge-philadelphia-pa/z4rzrpx/
+214,The Madison,216 S 48th St,Philadelphia,PA,19139,$750 – 825,$875 – 925,"$1,150",NA,39.95524,-75.21817,https://www.apartments.com/the-madison-philadelphia-pa/1fzq4j7/
+215,The Terrace,4931 Spruce St,Philadelphia,PA,19139,$799,$795,Call for Rent,NA,39.95437,-75.22147,https://www.apartments.com/the-terrace-philadelphia-pa/2dmfy68/
+216,John Fox Towers - 62 years old plus,8-24 S 22nd St,Philadelphia,PA,19103,"$617 – 1,459",NA,NA,NA,39.95347,-75.177,https://www.apartments.com/john-fox-towers-62-years-old-plus-philadelphia-pa/s9qtjm5/
+217,Wood Norton,370 W Johnson St,Philadelphia,PA,19144,NA,NA,"$1,600 – 1,800","$1,800 – 1,990",40.03849,-75.18939,https://www.apartments.com/wood-norton-philadelphia-pa/dmw5e2l/
+218,The Bradford,507-515 S 8th St,Philadelphia,PA,19147,NA,NA,"$2,595",NA,39.94297,-75.15512,https://www.apartments.com/the-bradford-philadelphia-pa/lbvw35g/
+219,The Becker Building,1151-1161 N 3rd St,Philadelphia,PA,19123,NA,"$1,550","$1,800 – 2,500",NA,39.96912,-75.14135,https://www.apartments.com/the-becker-building-philadelphia-pa/tzs41rb/
+220,Divine Lorraine,699 N Broad St,Philadelphia,PA,19123,NA,"$1,455 – 1,875","$2,495 – 3,200",NA,39.96672,-75.16009,https://www.apartments.com/divine-lorraine-philadelphia-pa/vf4tx5e/
+221,Audubon Apartments,6242 Roosevelt Blvd,Philadelphia,PA,19149,NA,$845 – 960,"$960 – 1,045",NA,40.03565,-75.07442,https://www.apartments.com/audubon-apartments-philadelphia-pa/5l6nw2n/
+222,Northeast Apartments,2300 Hartel Ave,Philadelphia,PA,19152,NA,"$850 – 1,050","$1,250",NA,40.05457,-75.05362,https://www.apartments.com/northeast-apartments-philadelphia-pa/x8pf2hp/
+223,Marine Club,1100 S Broad St,Philadelphia,PA,19146,"$1,325","$1,450 – 1,760","$1,550 – 1,850",NA,39.93761,-75.16778,https://www.apartments.com/marine-club-philadelphia-pa/8pkzpe1/
+224,Lawndale Apartments,6000 Tabor Ave,Philadelphia,PA,19111,NA,$795,$925,NA,40.04338,-75.09639,https://www.apartments.com/lawndale-apartments-philadelphia-pa/6zq2xyt/
+225,ChapelCroft Apartments,9629 Bustleton Ave,Philadelphia,PA,19115,$795,"$885 – 1,050","$1,200 – 1,350",NA,40.08719,-75.0346,https://www.apartments.com/chapelcroft-apartments-philadelphia-pa/qc6mc5y/
+226,Oxford Towers,7210 Oxford Ave,Philadelphia,PA,19111,$750 – 825,$850 – 950,"$1,000 – 1,050",NA,40.05957,-75.08518,https://www.apartments.com/oxford-towers-philadelphia-pa/tglgfb9/
+227,Lofts 640,640 N Broad St,Philadelphia,PA,19130,"$1,415 – 1,725","$1,525 – 1,960",NA,NA,39.96497,-75.16179,https://www.apartments.com/lofts-640-philadelphia-pa/bwg3mxc/
+228,Cathedral East Apartments,700-750 E Cathedral Rd,Philadelphia,PA,19131,NA,"$1,100 – 1,175","$1,250",NA,40.06556,-75.23828,https://www.apartments.com/cathedral-east-apartments-philadelphia-pa/hs6ryz2/
+229,The Willows at Wissahickon,549 Manheim St,Philadelphia,PA,19144,NA,$901,"$1,076 – 1,207","$1,417",40.02104,-75.17474,https://www.apartments.com/the-willows-at-wissahickon-philadelphia-pa/t0thpz9/
+230,Chester Plaza,4605-4611 Chester Ave,Philadelphia,PA,19143,$900 – 950,"$1,150 – 1,200",NA,NA,39.94676,-75.21324,https://www.apartments.com/chester-plaza-philadelphia-pa/5j4wmgn/
+231,Grant Meadows,3100 Grant Ave,Philadelphia,PA,19114,NA,$760 – 870,$985,NA,40.06969,-75.01187,https://www.apartments.com/grant-meadows-philadelphia-pa/5j9bncp/
+232,Wimbledon Court,3112-3158 Grant Ave,Philadelphia,PA,19114,NA,NA,"$1,270",NA,40.06976,-75.01017,https://www.apartments.com/wimbledon-court-philadelphia-pa/761klcx/
+233,Park Terrace Apartments,8040 Rowland Ave,Philadelphia,PA,19136,NA,$880 – 985,"$1,150 – 1,160",NA,40.04716,-75.0303,https://www.apartments.com/park-terrace-apartments-philadelphia-pa/75qzw0z/
+234,117 Chestnut St,117 Chestnut St,Philadelphia,PA,19106,"$1,475 – 1,650",NA,NA,NA,39.94844,-75.14354,https://www.apartments.com/117-chestnut-st-philadelphia-pa/d2z0enl/
+235,Brookshire Trace Townhomes & Duplexes,14040 Dana Ave,Philadelphia,PA,19116,NA,"$1,025 – 1,150","$1,250 – 1,395",NA,40.13132,-75.00735,https://www.apartments.com/brookshire-trace-townhomes-duplexes-philadelphia-pa/rhkkxr0/
+236,The Cosmopolitan,221 S 12th St,Philadelphia,PA,19107,"$1,150 – 1,450","$1,500 – 1,850","$1,800 – 2,500",NA,39.948,-75.16044,https://www.apartments.com/the-cosmopolitan-philadelphia-pa/9dyqc57/
+237,Manayunk Garden Apartments,3901 Manayunk Ave,Philadelphia,PA,19128,NA,NA,"$1,150 – 1,350",NA,40.02283,-75.2122,https://www.apartments.com/manayunk-garden-apartments-philadelphia-pa/jz2t5g4/
+238,Evo at Cira Centre South,2930 Chestnut St,Philadelphia,PA,19104,NA,NA,NA,NA,39.95301,-75.18312,https://www.apartments.com/evo-at-cira-centre-south-philadelphia-pa/sjv12e7/
+239,Victoria Woods Apartments and Townhomes,9601 Ashton Rd,Philadelphia,PA,19114,NA,$795,"$1,125","$1,500",40.06964,-75.01476,https://www.apartments.com/victoria-woods-apartments-and-townhomes-philadelphia-pa/lwf6l2f/
+240,Scotchbrook Rental Townhomes,9275 Jamison Ave,Philadelphia,PA,19115,NA,NA,"$1,310 – 1,485",NA,40.08398,-75.04226,https://www.apartments.com/scotchbrook-rental-townhomes-philadelphia-pa/010p2h2/
+241,St.Regis Apartments,2301 Tremont St,Philadelphia,PA,19115,NA,"$990 – 1,115","$1,240 – 1,445",NA,40.07486,-75.03749,https://www.apartments.com/stregis-apartments-philadelphia-pa/st3e3d4/
+242,Evergreen Manor,2301 Woodward St,Philadelphia,PA,19115,NA,$775 – 790,$850 – 900,NA,40.07266,-75.03937,https://www.apartments.com/evergreen-manor-philadelphia-pa/krghc08/
+243,Ashley Court Apartments,10900-10960 Bustleton Ave,Philadelphia,PA,19116,$800,$900 – 950,"$1,250",NA,40.11251,-75.02445,https://www.apartments.com/ashley-court-apartments-philadelphia-pa/ldfx4kg/
+244,Sylvania Gardens Apartments,414-424 S 48th St,Philadelphia,PA,19143,$895 – 950,"$995 – 1,025",NA,NA,39.952,-75.21876,https://www.apartments.com/sylvania-gardens-apartments-philadelphia-pa/t5x38nb/
+245,Cedar Glen Apartments,9120-9140 Old Bustleton Ave,Philadelphia,PA,19115,NA,$810 – 860,$910 – 960,NA,40.07885,-75.04175,https://www.apartments.com/cedar-glen-apartments-philadelphia-pa/1y6veb6/
+246,Heatherwood Apartments,9200 Bustleton Ave,Philadelphia,PA,19115,NA,$933,"$1,090 – 1,140",NA,40.08178,-75.04269,https://www.apartments.com/heatherwood-apartments-philadelphia-pa/ehl3nwn/
+247,Blue Grass Estates,9213 Blue Grass Rd,Philadelphia,PA,19114,NA,$865 – 950,"$1,025 – 1,080","$1,325 – 1,380",40.07195,-75.02931,https://www.apartments.com/blue-grass-estates-philadelphia-pa/eqlchvp/
+248,Welshwood Apartments,2661 Willits Rd,Philadelphia,PA,19114,NA,$995,"$1,195",NA,40.06775,-75.02699,https://www.apartments.com/welshwood-apartments-philadelphia-pa/4lmyyxh/
+249,The Link at University City,3600-3630 Lancaster Ave,Philadelphia,PA,19104,"$2,169","$2,199 – 2,549","$2,898 – 3,398","$4,037 – 4,797",39.95862,-75.19425,https://www.apartments.com/the-link-at-university-city-philadelphia-pa/f0nhpcs/
+250,Park Chase Apartments,8118 Verree Rd,Philadelphia,PA,19111,$740,$800 – 895,$995,NA,40.07543,-75.07544,https://www.apartments.com/park-chase-apartments-philadelphia-pa/19nl1h5/
+251,Colonial Village Townhomes,8875 Ridge Ave,Philadelphia,PA,19128,NA,NA,"$1,385","$1,495",40.0685,-75.23969,https://www.apartments.com/colonial-village-townhomes-philadelphia-pa/ehd8whq/
+252,1401 Walnut St,1401 Walnut St,Philadelphia,PA,19102,NA,NA,NA,NA,39.94955,-75.16458,https://www.apartments.com/1401-walnut-st-philadelphia-pa/pj642vv/
+253,West Loft Apartments,4700 Walnut St,Philadelphia,PA,19139,"$1,015 – 1,165","$1,150 – 1,620","$1,799 – 1,950","$2,325 – 2,500",39.95526,-75.21692,https://www.apartments.com/west-loft-apartments-philadelphia-pa/wlt98hj/
+254,The Belmont Apartments,4401 Conshohocken Ave,Philadelphia,PA,19131,NA,$925 – 975,"$1,050 – 1,150",NA,40.00023,-75.2202,https://www.apartments.com/the-belmont-apartments-philadelphia-pa/zee7vmx/
+255,Frankford Lofts,1045 Frankford Ave,Philadelphia,PA,19125,"$1,345","$1,695 – 1,995","$1,895 – 2,445","$2,295",39.96724,-75.13422,https://www.apartments.com/frankford-lofts-philadelphia-pa/fyxtl2s/
+256,1201 Spruce,1201 Spruce St,Philadelphia,PA,19107,NA,NA,"$2,245 – 2,295",NA,39.94678,-75.16114,https://www.apartments.com/1201-spruce-philadelphia-pa/5r7celn/
+257,Canal House,4312 Main St,Philadelphia,PA,19127,"$1,295 – 1,320","$1,440 – 1,660",Call for Rent,NA,40.02469,-75.22213,https://www.apartments.com/canal-house-philadelphia-pa/jcyjc66/
+258,Paseo Verde South,1950 N 9th St,Philadelphia,PA,19122,NA,"$1,313","$1,305",NA,39.98138,-75.149,https://www.apartments.com/paseo-verde-south-philadelphia-pa/1x6hct5/
+259,Apartments @ 1220,1220-1246 N Broad St,Philadelphia,PA,19121,$930,$985,"$1,150 – 1,275",NA,39.97263,-75.15955,https://www.apartments.com/apartments-1220-philadelphia-pa/p17l0zr/
+260,Greenbriar Club Apartments,3901 Conshohocken Ave,Philadelphia,PA,19131,$845 – 950,"$1,100","$1,425 – 1,495",NA,40.00453,-75.20682,https://www.apartments.com/greenbriar-club-apartments-philadelphia-pa/fvhvnwr/
+261,Gail Court,713-717 Rhawn St,Philadelphia,PA,19111,Call for Rent,$935,"$1,255",NA,40.0747,-75.07842,https://www.apartments.com/gail-court-philadelphia-pa/v7ft91d/
+262,Stevenson Terrace Apartments,6201 N 10th St,Philadelphia,PA,19141,$775 – 875,$840 – 980,$995,"$1,200 – 1,300",40.04692,-75.13544,https://www.apartments.com/stevenson-terrace-apartments-philadelphia-pa/1pnzge4/
+263,Terrace South,2275 Winchester Ave,Philadelphia,PA,19115,NA,NA,NA,NA,40.07392,-75.0402,https://www.apartments.com/terrace-south-philadelphia-pa/jghjkq4/
+264,Head House Flats-Abbotts Square,528 S 2nd St,Philadelphia,PA,19147,"$1,295 – 1,395","$1,795 – 2,295",NA,NA,39.94182,-75.14586,https://www.apartments.com/head-house-flats-abbotts-square-philadelphia-pa/hmw1n80/
+265,Phillip Murray House,6300 Old York Rd,Philadelphia,PA,19141,NA,NA,NA,NA,40.04971,-75.14541,https://www.apartments.com/phillip-murray-house-philadelphia-pa/gjvc95z/
+266,6300 City,6300-6318 City Ave,Philadelphia,PA,19151,"$900 – 1,050","$1,150 – 1,400",NA,NA,39.9892,-75.25104,https://www.apartments.com/6300-city-philadelphia-pa/h1mwtg3/
+267,Spruce Hill Court,4400 Spruce St,Philadelphia,PA,19104,NA,NA,NA,"$1,650 – 1,800",39.95245,-75.21128,https://www.apartments.com/spruce-hill-court-philadelphia-pa/fjsv6ht/
+268,Penn's View,303 Vine St,Philadelphia,PA,19106,NA,"$1,595 – 1,725","$2,135",NA,39.95613,-75.14497,https://www.apartments.com/penns-view-philadelphia-pa/xkhzb9p/
+269,Walnut Hill Apartments,4111 Walnut St,Philadelphia,PA,19104,NA,"$1,230 – 1,425",NA,NA,39.95488,-75.20573,https://www.apartments.com/walnut-hill-apartments-philadelphia-pa/k4e1dj8/
+270,Florence Gardens,506 S 41st St,Philadelphia,PA,19104,NA,"$1,050",NA,NA,39.94918,-75.20614,https://www.apartments.com/florence-gardens-philadelphia-pa/7pzjmlz/
+271,The Chatham,135 S 20th St,Philadelphia,PA,19103,"$1,300","$1,585","$1,950",NA,39.95073,-75.17369,https://www.apartments.com/the-chatham-philadelphia-pa/918dxc7/
+272,AQ Overbrook Flats,6358 Lancaster Ave,Philadelphia,PA,19151,NA,"$875 – 1,200","$1,250 – 1,399",NA,39.98623,-75.25086,https://www.apartments.com/aq-overbrook-flats-philadelphia-pa/xxjhzvq/
+273,2400 Chestnut St.,2400 Chestnut St,Philadelphia,PA,19103,"$1,760 – 1,860","$1,825 – 1,970","$2,230 – 2,720",NA,39.95244,-75.1795,https://www.apartments.com/2400-chestnut-st-philadelphia-pa/zqgzz2x/
+274,Mural Lofts,523 N Broad St,Philadelphia,PA,19123,NA,"$1,375 – 2,250","$2,000 – 2,500",NA,39.96259,-75.16022,https://www.apartments.com/mural-lofts-philadelphia-pa/1ln4mn6/
+275,Birchwood Hill Apartments,5115 Wissahickon Ave,Philadelphia,PA,19144,NA,$830,$947,NA,40.02123,-75.17562,https://www.apartments.com/birchwood-hill-apartments-philadelphia-pa/qz5nzpx/
+276,Juniper Place,247-249 S Juniper St,Philadelphia,PA,19107,$935,"$1,225",NA,NA,39.94755,-75.16342,https://www.apartments.com/juniper-place-philadelphia-pa/89cqne1/
+277,Westwood,4404 Walnut St,Philadelphia,PA,19104,NA,"$1,350","$1,250 – 1,500","$1,550",39.95525,-75.21037,https://www.apartments.com/westwood-philadelphia-pa/wb30bdj/
+278,The Grand Corinthian,909 Corinthian Ave,Philadelphia,PA,19130,NA,NA,"$1,600",NA,39.97204,-75.17033,https://www.apartments.com/the-grand-corinthian-philadelphia-pa/nvmrrnm/
+279,Bank Street Court,24-30 S Bank St,Philadelphia,PA,19106,"$1,325","$1,525",NA,NA,39.94904,-75.14534,https://www.apartments.com/bank-street-court-philadelphia-pa/d6qjbgl/
+280,4519-4525 Pine St,4519-4525 Pine St,Philadelphia,PA,19143,NA,"$1,150 – 1,200","$1,700 – 1,800","$1,700 – 1,800",39.95211,-75.21315,https://www.apartments.com/4519-4525-pine-st-philadelphia-pa/6ppl4dr/
+281,Congress Hall,5001-5023 Erringer Pl,Philadelphia,PA,19144,NA,$700 – 750,$850,NA,40.02124,-75.17145,https://www.apartments.com/congress-hall-philadelphia-pa/mn265xk/
+282,Dockside Luxury Apartments,717 S Christopher Columbus Blvd,Philadelphia,PA,19147,NA,NA,"$2,200 – 3,100",NA,39.93908,-75.1408,https://www.apartments.com/dockside-luxury-apartments-philadelphia-pa/s4ghtr4/
+283,Franklin Square Townhomes,3850 Woodhaven Rd,Philadelphia,PA,19154,NA,NA,"$1,075 – 1,275",NA,40.08899,-74.97547,https://www.apartments.com/franklin-square-townhomes-philadelphia-pa/trkyvnc/
+284,Four Freedoms House- Seniors 62 yrs and older,6101 Morris St,Philadelphia,PA,19144,NA,NA,NA,NA,40.03393,-75.18663,https://www.apartments.com/four-freedoms-house-seniors-62-yrs-and-older-philadelphia-pa/9x9g5e6/
+285,The Lofts at Brewerytown,3000 W Master St,Philadelphia,PA,19121,NA,NA,NA,NA,39.97761,-75.18493,https://www.apartments.com/the-lofts-at-brewerytown-philadelphia-pa/l5tyhzd/
+286,The Brownstones at Diamond Street,3200 W Diamond St,Philadelphia,PA,19121,NA,$887,"$1,060","$1,221",39.98827,-75.18573,https://www.apartments.com/the-brownstones-at-diamond-street-philadelphia-pa/v2fe77g/
+287,Hillside Garden,6060 Crescentville Rd,Philadelphia,PA,19120,NA,$825 – 900,"$925 – 1,050",NA,40.04219,-75.1147,https://www.apartments.com/hillside-garden-philadelphia-pa/yqxjmkr/
+288,Lotus Village Apartments,1121 N 66th St,Philadelphia,PA,19151,NA,NA,$925,NA,39.98006,-75.25426,https://www.apartments.com/lotus-village-apartments-philadelphia-pa/vw3wgqd/
+289,Princeton Gardens,7330 Germantown Ave,Philadelphia,PA,19119,NA,"$1,045 – 1,075","$1,195 – 1,345",NA,40.06173,-75.19288,https://www.apartments.com/princeton-gardens-philadelphia-pa/011cer0/
+290,227 Krams Ave,227 Krams Ave,Philadelphia,PA,19127,NA,"$1,350 – 1,695","$1,875 – 2,300",NA,40.03051,-75.22507,https://www.apartments.com/227-krams-ave-philadelphia-pa/j7yccr5/
+291,410 Shurs Lane,410 Shurs Ln,Philadelphia,PA,19127,"$1,050 – 1,200","$1,300 – 1,650","$1,875 – 2,300",NA,40.02592,-75.21232,https://www.apartments.com/410-shurs-lane-philadelphia-pa/fs58ghs/
+292,Manchester Apartments,2800 Welsh Rd,Philadelphia,PA,19152,$695,$785 – 850,$965,NA,40.06346,-75.02848,https://www.apartments.com/manchester-apartments-philadelphia-pa/psk79rv/
+293,Larchwood Garden Apartments,2809 S 82nd St,Philadelphia,PA,19153,NA,NA,"$25 – 1,024","$25 – 1,155",39.89818,-75.24808,https://www.apartments.com/larchwood-garden-apartments-philadelphia-pa/qwgmblx/
+294,Knightsbridge Apartments,2900 Knights Rd,Bensalem,PA,19020,NA,"$1,227 – 1,247","$1,390 – 1,474",NA,40.1046,-74.95313,https://www.apartments.com/knightsbridge-apartments-bensalem-pa/efzzlfm/
+295,Korman Residential at Willow Shores,4067 Harbour Dr,Palmyra,NJ,08065,NA,"$1,085 – 2,600","$1,305 – 2,900",NA,40.00712,-75.03575,https://www.apartments.com/korman-residential-at-willow-shores-palmyra-nj/zldd8hx/
+296,Hill Brook Place Apartment Homes,2517 Dunksferry Rd,Bensalem,PA,19020,"$1,050 – 1,745","$1,145 – 2,068","$1,350 – 2,331","$1,990 – 2,827",40.10328,-74.95683,https://www.apartments.com/hill-brook-place-apartment-homes-bensalem-pa/znhwswz/
+297,the metropolitan bala cynwyd,118 Montgomery Ave,Bala Cynwyd,PA,19004,NA,"$1,440","$1,530",NA,40.00515,-75.23819,https://www.apartments.com/the-metropolitan-bala-cynwyd-bala-cynwyd-pa/m4np82l/
+298,Arbor Lane Apartments,600 Old Street Rd,Feasterville,PA,19053,NA,"$1,114 – 1,179","$1,377 – 1,407",NA,40.14172,-74.98608,https://www.apartments.com/arbor-lane-apartments-feasterville-pa/e0cv9pp/
+299,Elkins Park Terrace,22 Township Line Rd,Elkins Park,PA,19027,NA,"$1,070",Call for Rent,NA,40.07065,-75.10016,https://www.apartments.com/elkins-park-terrace-elkins-park-pa/fn4jxrr/
+300,The Victor,1 Market St,Camden,NJ,08102,Call for Rent,"$1,302 – 1,949","$1,882",Call for Rent,39.94745,-75.12726,https://www.apartments.com/the-victor-camden-nj/9nmzzq7/
+301,Parkwood Manor,83 S State Rd,Upper Darby,PA,19082,$735,$865,NA,NA,39.96139,-75.27356,https://www.apartments.com/parkwood-manor-upper-darby-pa/81945d2/
+302,Oakwood Apartments,8723 W Chester Pike,Upper Darby,PA,19082,NA,$825 – 875,NA,NA,39.96822,-75.28597,https://www.apartments.com/oakwood-apartments-upper-darby-pa/1hvknx7/
+303,Edgehill Court Apartments,25 Old Lancaster Rd,Bala Cynwyd,PA,19004,"$1,025",NA,NA,NA,39.99843,-75.23624,https://www.apartments.com/edgehill-court-apartments-bala-cynwyd-pa/kelssnc/
+304,Stonehurst Court Apartments,7250 Walnut St,Upper Darby,PA,19082,NA,$845 – 865,NA,NA,39.95752,-75.26572,https://www.apartments.com/stonehurst-court-apartments-upper-darby-pa/7kn507y/
+305,Penzel Manor,87-89 S State Rd,Upper Darby,PA,19082,NA,$875,"$1,025",NA,39.96121,-75.27435,https://www.apartments.com/penzel-manor-upper-darby-pa/mf9b9jh/
+306,The Pierre,306 Cooper St,Camden,NJ,08102,NA,NA,"$1,471 – 1,671",NA,39.94707,-75.12317,https://www.apartments.com/the-pierre-camden-nj/3j4tv6f/
+307,River Villas,5019 Harbour Dr,Palmyra,NJ,08065,NA,NA,"$1,195 – 1,210",NA,40.00747,-75.03781,https://www.apartments.com/river-villas-palmyra-nj/wlxm8vk/
+308,Carriage Place Apartments,2819 Kate Ave,Bensalem,PA,19020,NA,$715 – 850,"$970 – 1,000",NA,40.10297,-74.95368,https://www.apartments.com/carriage-place-apartments-bensalem-pa/6344bjv/
+309,Melrose Station,902 Valley Rd,Melrose Park,PA,19027,NA,"$1,120","$1,260 – 1,350","$1,850",40.05894,-75.12974,https://www.apartments.com/melrose-station-melrose-park-pa/xnqqdqn/
+310,Hunters Creek,2835 Century Ln,Bensalem,PA,19020,NA,"$1,075","$1,300 – 1,375",NA,40.1045,-74.96181,https://www.apartments.com/hunters-creek-bensalem-pa/6v4dtxt/
+311,Bucks Meadow Apartments,3131 Knights Rd,Bensalem,PA,19020,NA,$950,"$1,200 – 1,250","$1,525",40.10511,-74.94513,https://www.apartments.com/bucks-meadow-apartments-bensalem-pa/f8lt1qs/
+312,Parkview Court,609 Cedar Ave,Yeadon,PA,19050,NA,$760 – 795,$925 – 945,NA,39.92064,-75.2538,https://www.apartments.com/parkview-court-yeadon-pa/7mh1mhy/
+313,One Montgomery Avenue Apartments,1 Montgomery Ave,Bala Cynwyd,PA,19004,NA,"$1,345","$1,625 – 1,745","$2,095",40.00654,-75.23328,https://www.apartments.com/one-montgomery-avenue-apartments-bala-cynwyd-pa/6j956br/
+314,Elkins Park Gardens,8000 High School Rd,Elkins Park,PA,19027,NA,"$1,090 – 1,210","$1,300",NA,40.07249,-75.12616,https://www.apartments.com/elkins-park-gardens-elkins-park-pa/h9838s3/
+315,101 City Apartments,101 W City Ave,Bala Cynwyd,PA,19004,NA,"$1,550","$1,950 – 2,500",NA,39.99912,-75.23154,https://www.apartments.com/101-city-apartments-bala-cynwyd-pa/lxt37kg/
+316,Merion Trace Apartments,7200 Merion Ter,Upper Darby,PA,19082,NA,"$940 – 1,025",NA,NA,39.96411,-75.26492,https://www.apartments.com/merion-trace-apartments-upper-darby-pa/tez5rjb/
+317,Park Lane East,250 Beverly Blvd,Upper Darby,PA,19082,NA,$835 – 925,"$1,080 – 1,100",NA,39.95288,-75.27063,https://www.apartments.com/park-lane-east-upper-darby-pa/zbt1txy/
+318,Lansdowne Meadows,7284 Radbourne Rd,Upper Darby,PA,19082,NA,$765 – 825,NA,NA,39.94867,-75.26311,https://www.apartments.com/lansdowne-meadows-upper-darby-pa/fwdvkmt/
+319,415 S 19th St Unit 4B,415 S 19th St Unit 4B,Philadelphia,PA,19146,NA,"$2,250",NA,NA,39.94589,-75.17288,https://www.apartments.com/415-s-19th-st-philadelphia-pa-unit-4b/89nrgf2/
+320,2212 Latona St,2212 Latona St,Philadelphia,PA,19146,NA,NA,"$1,550",NA,39.9365,-75.18094,https://www.apartments.com/2212-latona-st-philadelphia-pa/mhtkf9j/
+321,511 N Broad St Unit 505,511 N Broad St Unit 505,Philadelphia,PA,19123,NA,"$1,350",NA,NA,39.96192,-75.16147,https://www.apartments.com/511-n-broad-st-philadelphia-pa-unit-505/7463egw/
+322,1942 Bonitz St,1942 Bonitz St,Philadelphia,PA,19140,NA,NA,$875,NA,40.01753,-75.1583,https://www.apartments.com/1942-bonitz-st-philadelphia-pa/hb4p401/
+323,1636 S Front St Unit 1,1636 S Front St Unit 1,Philadelphia,PA,19148,NA,"$1,250",NA,NA,39.92661,-75.14747,https://www.apartments.com/1636-s-front-st-philadelphia-pa-unit-1/5g8hv7n/
+324,6500 Wissahickon Ave Unit 1,6500 Wissahickon Ave Unit 1,Philadelphia,PA,19119,NA,NA,NA,"$2,800",40.03696,-75.19556,https://www.apartments.com/6500-wissahickon-ave-philadelphia-pa-unit-1/b5fmk9b/
+325,807 N 2nd St Unit 3,807 N 2nd St Unit 3,Philadelphia,PA,19123,NA,NA,"$2,650",NA,39.96312,-75.14054,https://www.apartments.com/807-n-2nd-st-philadelphia-pa-unit-3/01mkk82/
+326,249 Shawmont Ave Unit C,249 Shawmont Ave Unit C,Philadelphia,PA,19128,NA,"$1,325",NA,NA,40.04828,-75.24575,https://www.apartments.com/249-shawmont-ave-philadelphia-pa-unit-c/92fzpn7/
+327,4533 Springfield Ave Unit B,4533 Springfield Ave Unit B,Philadelphia,PA,19143,NA,NA,NA,"$1,650",39.94829,-75.21374,https://www.apartments.com/4533-springfield-ave-philadelphia-pa-unit-b/g8nsc2x/
+328,1825 Kater St Unit 2,1825 Kater St Unit 2,Philadelphia,PA,19146,NA,NA,"$1,700",NA,39.94408,-75.17247,https://www.apartments.com/1825-kater-st-philadelphia-pa-unit-2/m0hs9cl/
+329,Annex,1516-1518 Spruce St,Philadelphia,PA,19102,"$1,410 – 1,600","$1,745 – 2,800",NA,NA,39.94715,-75.16737,https://www.apartments.com/annex-philadelphia-pa/jmrb837/
+330,Liberties Walk,1022-1030 N 2nd St,Philadelphia,PA,19123,NA,Call for Rent,"$1,645 – 1,945","$2,195",39.96713,-75.14029,https://www.apartments.com/liberties-walk-philadelphia-pa/phsrvys/
+331,Regency House,6301-6341 N 10th St,Philadelphia,PA,19141,$858 – 908,"$983 – 1,081",Call for Rent,NA,40.04773,-75.13528,https://www.apartments.com/regency-house-philadelphia-pa/3pyj3bd/
+332,McCallum Apartments,6635 Mccallum St,Philadelphia,PA,19119,$840,"$915 – 1,140","$1,100 – 1,390",NA,40.04546,-75.19126,https://www.apartments.com/mccallum-apartments-philadelphia-pa/x7kfbdp/
+333,Korman Residential at 3737 Chestnut,3737 Chestnut St,Philadelphia,PA,19104,"$2,179 – 3,499","$1,829 – 4,890","$3,014 – 4,900",NA,39.95531,-75.19796,https://www.apartments.com/korman-residential-at-3737-chestnut-philadelphia-pa/4dn8nnj/
+334,Station Walk Apartments,13651 Philmont Ave,Philadelphia,PA,19116,NA,$850,NA,NA,40.13195,-75.00953,https://www.apartments.com/station-walk-apartments-philadelphia-pa/s8vgyw7/
+335,Upsal Gardens,246 W Upsal St,Philadelphia,PA,19119,NA,$975,"$1,500",NA,40.04297,-75.18726,https://www.apartments.com/upsal-gardens-philadelphia-pa/zgkdtey/
+336,Del Campo,1011 N Hancock St,Philadelphia,PA,19123,NA,NA,NA,NA,39.96549,-75.13907,https://www.apartments.com/del-campo-philadelphia-pa/m68d8bj/
+337,Imperial Manor III,1170 Surrey Rd,Philadelphia,PA,19115,NA,"$1,099 – 1,119","$1,309 – 1,369",NA,40.0849,-75.04823,https://www.apartments.com/imperial-manor-iii-philadelphia-pa/j9p47v6/
+338,Park Place One Apartments,1801 Winchester Ave,Philadelphia,PA,19115,NA,"$1,129 – 1,149","$1,339 – 1,379",NA,40.07655,-75.04195,https://www.apartments.com/park-place-one-apartments-philadelphia-pa/5rhh6dp/
+339,Fallsview Gardens,3026 W Queen Ln,Philadelphia,PA,19129,NA,NA,"$1,250 – 1,550",NA,40.01916,-75.18168,https://www.apartments.com/fallsview-gardens-philadelphia-pa/xk810sq/
+340,Laverock Place,1000-1020 Ivy Hill Rd,Philadelphia,PA,19150,NA,"$1,125 – 1,145","$1,445",NA,40.07411,-75.18579,https://www.apartments.com/laverock-place-philadelphia-pa/ys7z51v/
+341,333 Earp,333 Earp St,Philadelphia,PA,19147,NA,"$1,200 – 1,650",NA,"$2,050 – 2,200",39.93144,-75.15081,https://www.apartments.com/333-earp-philadelphia-pa/ceef3jf/
+342,"Maple Village ""62 + Community""",22 W Rittenhouse St,Philadelphia,PA,19144,NA,$723,$820,NA,40.03699,-75.17694,https://www.apartments.com/maple-village-62-community-philadelphia-pa/z4ljpmz/
+343,1326 Spruce St Unit 2706,1326 Spruce St Unit 2706,Philadelphia,PA,19107,NA,"$1,990",NA,NA,39.94684,-75.16384,https://www.apartments.com/1326-spruce-st-philadelphia-pa-unit-2706/d5s4h7k/
+344,301 Race St Unit C3,301 Race St Unit C3,Philadelphia,PA,19106,"$1,800",NA,NA,NA,39.95437,-75.14515,https://www.apartments.com/301-race-st-philadelphia-pa-unit-c3/ftfb43v/
+345,The Irvine,780 S 52nd St,Philadelphia,PA,19143,"$1,295 – 1,645","$1,575 – 1,795","$2,095 – 2,345","$2,565 – 2,645",39.94624,-75.22589,https://www.apartments.com/the-irvine-philadelphia-pa/61hve9v/
+346,Schoolhouse Lofts,109 W Wildey St,Philadelphia,PA,19123,"$1,695",NA,NA,NA,39.9674,-75.13758,https://www.apartments.com/schoolhouse-lofts-philadelphia-pa/29pbsqc/
+347,Haverford Manor,7212 Haverford Ave,Philadelphia,PA,19151,NA,$950,NA,NA,39.97454,-75.26113,https://www.apartments.com/haverford-manor-philadelphia-pa/9fgv577/
+348,The Chancellor,206 S 13th St,Philadelphia,PA,19107,"$905 – 1,115","$1,405 – 1,455",NA,NA,39.9486,-75.16249,https://www.apartments.com/the-chancellor-philadelphia-pa/dr3wcqh/
+349,Liberty Crossing,3101-3201 Woodhaven Rd,Philadelphia,PA,19154,NA,"$1,050","$1,200",NA,40.09899,-74.98542,https://www.apartments.com/liberty-crossing-philadelphia-pa/1htsf46/
+350,The Cloisters,3823 Spring Garden St,Philadelphia,PA,19104,"$1,215 – 1,225","$1,325 – 1,350",NA,NA,39.96256,-75.1975,https://www.apartments.com/the-cloisters-philadelphia-pa/lhtlxvd/
+351,Brookview Apartments at Elkins Park,1235 Ashbourne Rd,Elkins Park,PA,19027,NA,"$1,215 – 1,525","$1,600 – 1,765","$1,940 – 2,095",40.06646,-75.11785,https://www.apartments.com/brookview-apartments-at-elkins-park-elkins-park-pa/ked8x69/
+352,Tremont Court Apartments,9128-9132 Old Newtown Rd,Philadelphia,PA,19115,NA,"$1,060","$1,200",NA,40.07583,-75.04067,https://www.apartments.com/tremont-court-apartments-philadelphia-pa/b4br1v8/
+353,Bainbridge Lofts,715 S 3rd St,Philadelphia,PA,19147,NA,"$1,625","$1,795 – 2,295",NA,39.94006,-75.14754,https://www.apartments.com/bainbridge-lofts-philadelphia-pa/v8h3j9e/
+354,Haven Arms Apartments,4200 Woodhaven Rd,Philadelphia,PA,19154,$795,$950,NA,NA,40.08303,-74.9682,https://www.apartments.com/haven-arms-apartments-philadelphia-pa/s49bwm4/
+355,Beacon Pointe Luxury Apartments,9503 State Rd,Philadelphia,PA,19114,"$1,135 – 1,140","$1,255 – 1,360","$1,400 – 1,665",NA,40.049,-74.98348,https://www.apartments.com/beacon-pointe-luxury-apartments-philadelphia-pa/1dff924/
+356,6615 Ridge,6615 Ridge Ave,Philadelphia,PA,19128,NA,"$1,200","$1,400 – 1,450",NA,40.03937,-75.2234,https://www.apartments.com/6615-ridge-philadelphia-pa/42z6p9j/
+357,Regency Village,5600 Ogontz Ave,Philadelphia,PA,19141,$645 – 685,$795,$925,NA,40.03945,-75.15099,https://www.apartments.com/regency-village-philadelphia-pa/gbxsgtx/
+358,Airy Avenue Apartments,1501-1563 E Mount Airy Ave,Philadelphia,PA,19150,NA,NA,"$1,195",NA,40.07854,-75.17241,https://www.apartments.com/airy-avenue-apartments-philadelphia-pa/vqk4vtf/
+359,Washington Lane Apartments,6201-6221 Crittenden St,Philadelphia,PA,19138,NA,$875,$995,NA,40.05713,-75.1648,https://www.apartments.com/washington-lane-apartments-philadelphia-pa/7sqxlbz/
+360,Oxford Apartments,5051 Oxford Ave,Philadelphia,PA,19124,NA,$650 – 800,NA,NA,40.02303,-75.08384,https://www.apartments.com/oxford-apartments-philadelphia-pa/5eg36jp/
+361,Q Wayne Gardens,5220-5224 Wayne Ave,Philadelphia,PA,19144,$550 – 575,$725 – 750,$850,NA,40.02726,-75.17233,https://www.apartments.com/q-wayne-gardens-philadelphia-pa/3xzf41d/
+362,Colonial Point Apartments,2555 Old Trevose Rd,Feasterville Trevose,PA,19053,"$920 – 1,250","$995 – 1,600","$1,230 – 1,510",NA,40.12211,-74.97351,https://www.apartments.com/colonial-point-apartments-feasterville-trevose-pa/sd0qgc7/
+363,Carver Hall Gardens,4840 Oxford Ave,Philadelphia,PA,19124,$600,$750 – 825,$825 – 850,$895 – 910,40.02007,-75.08493,https://www.apartments.com/carver-hall-gardens-philadelphia-pa/mgb3z1k/
+364,Inglis Gardens at Belmont,2560-2566 Belmont Ave,Philadelphia,PA,19131,NA,NA,NA,NA,39.99801,-75.21999,https://www.apartments.com/inglis-gardens-at-belmont-philadelphia-pa/60tnyqs/
+365,Fitler Commons,2300-2318 Pine St,Philadelphia,PA,19103,NA,"$1,300 – 1,350","$1,850",NA,39.94726,-75.17959,https://www.apartments.com/fitler-commons-philadelphia-pa/ygqsxpv/
+366,West Village Powelton,3201-3223 Powelton Ave,Philadelphia,PA,19104,NA,NA,"$1,695 – 1,750",NA,39.96069,-75.18841,https://www.apartments.com/west-village-powelton-philadelphia-pa/x40r98p/
+367,Sanctuary Lofts,2321 Fitzwater St,Philadelphia,PA,19146,"$1,315","$1,490 – 1,600","$2,350 – 2,650",NA,39.944,-75.18124,https://www.apartments.com/sanctuary-lofts-philadelphia-pa/337lkrd/
+368,Walnut Terrace,401 W Walnut Ln,Philadelphia,PA,19144,$645 – 700,$795,$905,NA,40.03466,-75.18431,https://www.apartments.com/walnut-terrace-philadelphia-pa/3qvj80d/
+369,The Standard at Spruce Hill,4311 Spruce St,Philadelphia,PA,19104,"$1,150 – 1,275","$1,400","$1,650 – 1,675",NA,39.9529,-75.20972,https://www.apartments.com/the-standard-at-spruce-hill-philadelphia-pa/w7g29bj/
+370,Iron Mill Lofts,1156-60 N 3rd St,Philadelphia,PA,19123,NA,NA,NA,"$2,475",39.96915,-75.14204,https://www.apartments.com/iron-mill-lofts-philadelphia-pa/q5z9mgz/
+371,Bernice Arms Apartments - 62 years +,6000 Baltimore Ave,Philadelphia,PA,19143,NA,$765,Call for Rent,NA,39.94437,-75.24351,https://www.apartments.com/bernice-arms-apartments-62-years-philadelphia-pa/scf7974/
+372,Brentwood,4130-4140 Parkside Ave,Philadelphia,PA,19104,NA,$900,"$1,040 – 1,150","$1,250",39.97558,-75.20836,https://www.apartments.com/brentwood-philadelphia-pa/bhccbn9/
+373,1200 Washington,1200 Washington Ave,Philadelphia,PA,19147,"$1,375","$1,652 – 1,727","$2,167",NA,39.93716,-75.16334,https://www.apartments.com/1200-washington-philadelphia-pa/3r6jt4d/
+374,Mount Airy Manor,315-333 E Mount Airy Ave,Philadelphia,PA,19119,NA,$895,"$1,095",NA,40.06478,-75.18651,https://www.apartments.com/mount-airy-manor-philadelphia-pa/m0vr6lk/
+375,The Sheldrake Apartments,4901 Spruce St,Philadelphia,PA,19139,NA,$739 – 780,$882 – 936,"$1,014",39.95417,-75.22022,https://www.apartments.com/the-sheldrake-apartments-philadelphia-pa/x8fywmm/
+376,Vernon House - A 62 & Older Community,3226 Clifford St,Philadelphia,PA,19121,NA,$563 – 727,NA,NA,39.98308,-75.18756,https://www.apartments.com/vernon-house-a-62-older-community-philadelphia-pa/m3xw6bk/
+377,The Universal Properties,1601 Federal St,Philadelphia,PA,19146,NA,NA,NA,NA,39.93495,-75.17043,https://www.apartments.com/the-universal-properties-philadelphia-pa/qkk1d8y/
+378,Oakland Terrace Apartments,6063 Roosevelt Blvd,Philadelphia,PA,19149,NA,$925,"$1,100",NA,40.03279,-75.07691,https://www.apartments.com/oakland-terrace-apartments-philadelphia-pa/e03nq7n/
+379,The Girard,1199 Ludlow St,Philadelphia,PA,19107,NA,"$2,220 – 3,085","$3,285 – 4,675",NA,39.95152,-75.15957,https://www.apartments.com/the-girard-philadelphia-pa/xhslt9m/
+380,Benton Court Apartments,1822 Benton St,Philadelphia,PA,19152,NA,$875 – 925,"$950 – 1,000",NA,40.07525,-75.04713,https://www.apartments.com/benton-court-apartments-philadelphia-pa/dsr27ph/
+381,Birchwood at Brooks (55+ Community),5640 Wyalusing Ave,Philadelphia,PA,19131,NA,$615 – 700,NA,NA,39.9683,-75.23347,https://www.apartments.com/birchwood-at-brooks-55-community-philadelphia-pa/g5yezdy/
+382,Yarn Factory Lofts,3715 Main St,Philadelphia,PA,19127,NA,"$1,450 – 1,750","$2,400 – 2,500",NA,40.01671,-75.21143,https://www.apartments.com/yarn-factory-lofts-philadelphia-pa/htyf4l0/
+383,Sevilla Court,32 Conshohocken State Rd,Bala Cynwyd,PA,19004,NA,NA,"$2,205 – 2,255",NA,40.00339,-75.22886,https://www.apartments.com/sevilla-court-bala-cynwyd-pa/1tlhbe6/
+384,1405 Panther Rd,1405 Panther Rd,Wyncote,PA,19095,NA,NA,NA,NA,40.08742,-75.15798,https://www.apartments.com/1405-panther-rd-wyncote-pa/276myyb/
+385,The Hub At 31 Brewerytown,1410 N 31st St,Philadelphia,PA,19121,"$1,324 – 1,440","$1,492 – 1,814","$2,140 – 2,455",NA,39.9784,-75.18627,https://www.apartments.com/the-hub-at-31-brewerytown-philadelphia-pa/m3558gl/
+386,7936 Montgomery Ave Unit 1,7936 Montgomery Ave Unit 1,Elkins Park,PA,19027,NA,NA,"$1,350",NA,40.07407,-75.12794,https://www.apartments.com/7936-montgomery-ave-elkins-park-pa-unit-1/p7nfx9s/
+387,Elizabeth Manor Apartments,7100 W Chester Pike,Upper Darby,PA,19082,NA,NA,"$975 – 1,090",NA,39.96222,-75.26398,https://www.apartments.com/elizabeth-manor-apartments-upper-darby-pa/exye56p/
+388,The Willows at Pyne Poynt,450 Erie St,Camden,NJ,08102,NA,$615,NA,NA,39.95518,-75.11866,https://www.apartments.com/the-willows-at-pyne-poynt-camden-nj/jerjh75/
+389,Prescott Arms Apartments,6724 Marshall Rd,Upper Darby,PA,19082,NA,$799,$899,NA,39.95471,-75.25272,https://www.apartments.com/prescott-arms-apartments-upper-darby-pa/37smkqg/
+390,Forest Creek Apartments,300 N Front St,Darby,PA,19023,NA,NA,$925 – 975,NA,39.91951,-75.24826,https://www.apartments.com/forest-creek-apartments-darby-pa/8kt07v2/
+391,The Pointe,1415 N 31st St,Philadelphia,PA,19121,NA,"$1,569 – 1,794","$2,340",NA,39.97851,-75.18551,https://www.apartments.com/the-pointe-philadelphia-pa/f7p4zcs/
+392,Spring Village Apartments,601 Poplar St,Sharon Hill,PA,19079,$765,$970,"$1,070",NA,39.91045,-75.26311,https://www.apartments.com/spring-village-apartments-sharon-hill-pa/ptx3e6t/
+393,9214 Jackson St,9214 Jackson St,Philadelphia,PA,19114,NA,NA,NA,"$1,400",40.05317,-75.00192,https://www.apartments.com/9214-jackson-st-philadelphia-pa/r98l9d2/
+394,2813 Mutter St,2813 Mutter St,Philadelphia,PA,19133,NA,NA,$950,NA,39.99307,-75.13284,https://www.apartments.com/2813-mutter-st-philadelphia-pa/ej9w15m/
+395,634 Hoffman St,634 Hoffman St,Philadelphia,PA,19148,NA,NA,NA,"$2,600",39.92472,-75.15736,https://www.apartments.com/634-hoffman-st-philadelphia-pa/qh3rfgx/
+396,540 South St Unit 2F,540 South St Unit 2F,Philadelphia,PA,19147,NA,"$1,300",NA,NA,39.94188,-75.15223,https://www.apartments.com/540-south-st-philadelphia-pa-unit-2f/0ntwqr1/
+397,1437 N Marston St,1437 N Marston St,Philadelphia,PA,19121,NA,NA,"$1,800",NA,39.97804,-75.1803,https://www.apartments.com/1437-n-marston-st-philadelphia-pa/m68qx7l/
+398,1027 Fernon St,1027 Fernon St,Philadelphia,PA,19148,NA,NA,"$1,500",NA,39.92938,-75.16255,https://www.apartments.com/1027-fernon-st-philadelphia-pa/71fp3ky/
+399,1631 Green St Unit B,1631 Green St Unit B,Philadelphia,PA,19130,NA,NA,"$1,925",NA,39.96439,-75.16482,https://www.apartments.com/1631-green-st-philadelphia-pa-unit-b/rc54yq1/
+400,5334 Greene St Unit 1R,5334 Greene St Unit 1R,Philadelphia,PA,19144,NA,"$1,495",NA,NA,40.03083,-75.17205,https://www.apartments.com/5334-greene-st-philadelphia-pa-unit-1r/6xh8nlv/
+401,57 Hamilton Cir,57 Hamilton Cir,Philadelphia,PA,19130,NA,NA,NA,"$2,750",39.96259,-75.17035,https://www.apartments.com/57-hamilton-cir-philadelphia-pa/qpx3yjw/
+402,Falls Village,2991 W School House Ln,Philadelphia,PA,19144,NA,"$1,365 – 1,875","$1,425 – 1,950","$1,812 – 1,942",40.02528,-75.18656,https://www.apartments.com/falls-village-philadelphia-pa/bpbz8k9/
+403,2026 McClellan St,2026 McClellan St,Philadelphia,PA,19145,NA,NA,"$1,700",NA,39.92882,-75.17932,https://www.apartments.com/2026-mcclellan-st-philadelphia-pa/hehrns3/
+404,3137 N Stillman St,3137 N Stillman St,Philadelphia,PA,19132,NA,NA,$900,NA,40.00313,-75.17126,https://www.apartments.com/3137-n-stillman-st-philadelphia-pa/49wtpcj/
+405,3137 N 32nd St,3137 N 32nd St,Philadelphia,PA,19132,NA,NA,NA,"$1,375",40.00466,-75.1816,https://www.apartments.com/3137-n-32nd-st-philadelphia-pa/63bw86s/
+406,2051 N 62nd St Unit 1F,2051 N 62nd St Unit 1F,Philadelphia,PA,19151,NA,NA,NA,"$1,875",39.9834,-75.2453,https://www.apartments.com/2051-n-62nd-st-philadelphia-pa-unit-1f/3r533cf/
+407,4937 Ormes St,4937 Ormes St,Philadelphia,PA,19120,NA,NA,NA,"$1,250",40.0248,-75.11873,https://www.apartments.com/4937-ormes-st-philadelphia-pa/bmqhgcc/
+408,Lincoln Green,4000-4040 Presidential Blvd,Philadelphia,PA,19131,NA,"$1,110 – 1,525","$1,610 – 1,725",NA,40.00592,-75.21015,https://www.apartments.com/lincoln-green-philadelphia-pa/wg5fjpl/
+409,7849 Nixon St,7849 Nixon St,Philadelphia,PA,19128,NA,NA,NA,"$2,300",40.04618,-75.25211,https://www.apartments.com/7849-nixon-st-philadelphia-pa/ljpn6jd/
+410,2453 N 30th St,2453 N 30th St,Philadelphia,PA,19132,NA,NA,NA,NA,39.99384,-75.18074,https://www.apartments.com/2453-n-30th-st-philadelphia-pa/6jx4let/
+411,6332 Germantown Ave,6332 Germantown Ave,Philadelphia,PA,19144,NA,NA,"$1,495",NA,40.04409,-75.18165,https://www.apartments.com/6332-germantown-ave-philadelphia-pa/gtktp7z/
+412,1923 Monument St,1923 Monument St,Philadelphia,PA,19121,NA,NA,"$1,500",NA,39.98333,-75.16572,https://www.apartments.com/1923-monument-st-philadelphia-pa/grttmqy/
+413,429 Watkins St,429 Watkins St,Philadelphia,PA,19148,NA,NA,NA,"$1,600",39.92699,-75.1537,https://www.apartments.com/429-watkins-st-philadelphia-pa/8g57cv2/
+414,The Point At Rittenhouse Row,1601 Sansom St,Philadelphia,PA,19103,NA,"$1,463 – 2,647","$2,266 – 2,996",NA,39.95065,-75.16766,https://www.apartments.com/the-point-at-rittenhouse-row-philadelphia-pa/575estn/
+415,212 Brown St Unit 4D,212 Brown St Unit 4D,Philadelphia,PA,19123,NA,"$1,750",NA,NA,39.963,-75.14157,https://www.apartments.com/212-brown-st-philadelphia-pa-unit-4d/mrtvdth/
+416,3121 Aramingo Ave,3121 Aramingo Ave,Philadelphia,PA,19134,NA,NA,NA,"$1,495",39.98737,-75.10805,https://www.apartments.com/3121-aramingo-ave-philadelphia-pa/xetpxgm/
+417,2119 Verona Dr,2119 Verona Dr,Philadelphia,PA,19145,NA,NA,"$2,800",NA,39.91002,-75.18408,https://www.apartments.com/2119-verona-dr-philadelphia-pa/bt7v2g8/
+418,7251 Shalkop St,7251 Shalkop St,Philadelphia,PA,19128,NA,NA,NA,NA,40.04771,-75.23203,https://www.apartments.com/7251-shalkop-st-philadelphia-pa/eer6x3m/
+419,1015 N 2nd St,1015 N 2nd St,Philadelphia,PA,19123,NA,"$2,100",NA,NA,39.96692,-75.13992,https://www.apartments.com/1015-n-2nd-st-philadelphia-pa/pc073yr/
+420,The Ludlow,1101 Ludlow St,Philadelphia,PA,19107,"$1,695 – 2,000","$1,500 – 2,825","$2,800 – 3,835",NA,39.95149,-75.15866,https://www.apartments.com/the-ludlow-philadelphia-pa/lpm616f/
+421,369 E Gowen Ave Unit REAR,369 E Gowen Ave Unit REAR,Philadelphia,PA,19119,NA,"$1,300",NA,NA,40.06857,-75.18748,https://www.apartments.com/369-e-gowen-ave-philadelphia-pa-unit-rear/vl2hcxf/
+422,5728 N Lambert St,5728 N Lambert St,Philadelphia,PA,19138,NA,NA,NA,"$1,500",40.04199,-75.15551,https://www.apartments.com/5728-n-lambert-st-philadelphia-pa/46pnpcl/
+423,2610 S Darien St,2610 S Darien St,Philadelphia,PA,19148,NA,NA,NA,"$1,600",39.91665,-75.16234,https://www.apartments.com/2610-s-darien-st-philadelphia-pa/mjw8slk/
+424,4682 Darrah St,4682 Darrah St,Philadelphia,PA,19124,NA,NA,NA,$900,40.01596,-75.08267,https://www.apartments.com/4682-darrah-st-philadelphia-pa/5ynpssn/
+425,1849 E Albert St,1849 E Albert St,Philadelphia,PA,19125,NA,NA,"$1,050",NA,39.98851,-75.12548,https://www.apartments.com/1849-e-albert-st-philadelphia-pa/mywb23j/
+426,Enclaves,3900 Gateway Dr,Philadelphia,PA,19145,NA,Call for Rent,"$1,520 – 2,767",NA,39.90108,-75.19251,https://www.apartments.com/enclaves-philadelphia-pa/5yqhwcp/
+427,2840 N Park Ave,2840 N Park Ave,Philadelphia,PA,19132,NA,NA,NA,"$1,200",39.99629,-75.15296,https://www.apartments.com/2840-n-park-ave-philadelphia-pa/s4px8h6/
+428,1501 N 2nd St Unit 3,1501 N 2nd St Unit 3,Philadelphia,PA,19122,NA,NA,"$1,850",NA,39.97383,-75.13841,https://www.apartments.com/1501-n-2nd-st-philadelphia-pa-unit-3/6qtrlps/
+429,5937 N Hutchinson St,5937 N Hutchinson St,Philadelphia,PA,19141,NA,NA,NA,"$1,225",40.04301,-75.13568,https://www.apartments.com/5937-n-hutchinson-st-philadelphia-pa/s275fk4/
+430,2236 S 19th St,2236 S 19th St,Philadelphia,PA,19145,NA,NA,NA,NA,39.92309,-75.17837,https://www.apartments.com/2236-s-19th-st-philadelphia-pa/ej9jenn/
+431,5526 N Mascher St Unit 2ND FL REAR,5526 N Mascher St Unit 2ND FL REAR,Philadelphia,PA,19120,$775,NA,NA,NA,40.03505,-75.12424,https://www.apartments.com/5526-n-mascher-st-philadelphia-pa-unit-2nd-fl-rear/dv2b73k/
+432,Versailles Apartments,1530 Locust St,Philadelphia,PA,19102,NA,"$2,295 – 2,875","$3,950 – 4,400","$6,995",39.94839,-75.16714,https://www.apartments.com/versailles-apartments-philadelphia-pa/lj0d0yd/
+433,204 W Duncannon Ave,204 W Duncannon Ave,Philadelphia,PA,19120,NA,NA,NA,"$1,050",40.0295,-75.12699,https://www.apartments.com/204-w-duncannon-ave-philadelphia-pa/k31mqcb/
+434,2120 E Cheltenham Ave,2120 E Cheltenham Ave,Philadelphia,PA,19124,NA,NA,$950,NA,40.01491,-75.06312,https://www.apartments.com/2120-e-cheltenham-ave-philadelphia-pa/qv2czfw/
+435,1415 S 4th St,1415 S 4th St,Philadelphia,PA,19147,NA,NA,NA,NA,39.93039,-75.15152,https://www.apartments.com/1415-s-4th-st-philadelphia-pa/hfrh981/
+436,505 W Norris St Unit 1,505 W Norris St Unit 1,Philadelphia,PA,19122,NA,NA,NA,"$1,900",39.98152,-75.14275,https://www.apartments.com/505-w-norris-st-philadelphia-pa-unit-1/5l1m11p/
+437,2332 S Broad St,2332 S Broad St,Philadelphia,PA,19145,NA,NA,"$1,500",NA,39.92105,-75.17078,https://www.apartments.com/2332-s-broad-st-philadelphia-pa/5rmtlvp/
+438,Tower Place,1400 Spring Garden St,Philadelphia,PA,19130,NA,"$1,686 – 2,045","$2,030 – 3,052",NA,39.96201,-75.16225,https://www.apartments.com/tower-place-philadelphia-pa/bex449c/
+439,2543 N Front St Unit 3,2543 N Front St Unit 3,Philadelphia,PA,19133,NA,NA,NA,"$1,695",39.98878,-75.13111,https://www.apartments.com/2543-n-front-st-philadelphia-pa-unit-3/yydve6t/
+440,2987 Frankford Ave Unit 2ND FLOOR REAR,2987 Frankford Ave Unit 2ND FLOOR REAR,Philadelphia,PA,19134,NA,$700,NA,NA,39.9906,-75.11496,https://www.apartments.com/2987-frankford-ave-philadelphia-pa-unit-2nd-floor-rear/pg6317t/
+441,1244 N Taney St Unit B,1244 N Taney St Unit B,Philadelphia,PA,19121,NA,"$1,313",NA,NA,39.97515,-75.17933,https://www.apartments.com/1244-n-taney-st-philadelphia-pa-unit-b/ecp2xbq/
+442,475 Domino Ln,475 Domino Ln,Philadelphia,PA,19128,NA,NA,NA,"$1,650",40.04443,-75.23473,https://www.apartments.com/475-domino-ln-philadelphia-pa/2vmq589/
+443,130 Spruce St,130 Spruce St,Philadelphia,PA,19106,NA,NA,"$3,100",NA,39.94438,-75.1443,https://www.apartments.com/130-spruce-st-philadelphia-pa/ylbsj0s/
+444,Rushwood Apartments,10825 E Keswick Rd,Philadelphia,PA,19154,NA,"$1,174 – 1,284","$1,264 – 1,445",NA,40.08126,-74.98363,https://www.apartments.com/rushwood-apartments-philadelphia-pa/g8qsrgz/
+445,834 S Cecil St,834 S Cecil St,Philadelphia,PA,19143,NA,NA,$775,NA,39.94786,-75.23916,https://www.apartments.com/834-s-cecil-st-philadelphia-pa/ympsp8v/
+446,4105 W Girard Ave Unit 1,4105 W Girard Ave Unit 1,Philadelphia,PA,19104,NA,NA,$995,NA,39.97414,-75.20677,https://www.apartments.com/4105-w-girard-ave-philadelphia-pa-unit-1/0fx74h2/
+447,5701 Malcolm St,5701 Malcolm St,Philadelphia,PA,19143,NA,$775,NA,NA,39.94193,-75.23357,https://www.apartments.com/5701-malcolm-st-philadelphia-pa/8zc0191/
+448,4122 Chester Ave Unit C/3FL,4122 Chester Ave Unit C/3FL,Philadelphia,PA,19104,NA,NA,NA,"$1,740",39.94823,-75.20652,https://www.apartments.com/4122-chester-ave-philadelphia-pa-unit-c-3fl/vzb9s2g/
+449,223 S 44th St,223 S 44th St,Philadelphia,PA,19104,NA,NA,NA,"$1,695",39.95429,-75.20992,https://www.apartments.com/223-s-44th-st-philadelphia-pa/vyf9rtg/
+450,The Piazza,1001 N 2nd St,Philadelphia,PA,19123,NA,"$1,805 – 2,095","$2,145 – 2,735",NA,39.96673,-75.13992,https://www.apartments.com/the-piazza-philadelphia-pa/pslb7ts/
+451,705 S 5th St Unit 301,705 S 5th St Unit 301,Philadelphia,PA,19147,NA,NA,"$2,450",NA,39.94004,-75.15095,https://www.apartments.com/705-s-5th-st-philadelphia-pa-unit-301/f0q6p3v/
+452,2429 Locust St Unit 513,2429 Locust St Unit 513,Philadelphia,PA,19103,NA,"$1,923",NA,NA,39.95021,-75.18023,https://www.apartments.com/2429-locust-st-philadelphia-pa-unit-513/5d1cwbp/
+453,1405 Frankford Ave,1405 Frankford Ave,Philadelphia,PA,19125,NA,"$1,695",NA,NA,39.97259,-75.13401,https://www.apartments.com/1405-frankford-ave-philadelphia-pa/d2vrktk/
+454,1416 Frankford Ave Unit 405,1416 Frankford Ave Unit 405,Philadelphia,PA,19125,NA,"$1,575",NA,NA,39.97284,-75.1343,https://www.apartments.com/1416-frankford-ave-philadelphia-pa-unit-405/g1m19nx/
+455,4592 Silverwood St,4592 Silverwood St,Philadelphia,PA,19127,NA,NA,NA,NA,40.03125,-75.22503,https://www.apartments.com/4592-silverwood-st-philadelphia-pa/6btk2xt/
+456,YONO,1320 W Somerville Ave,Philadelphia,PA,19141,$847 – 892,"$1,148",NA,NA,40.03459,-75.14417,https://www.apartments.com/yono-philadelphia-pa/fzzev2t/
+457,918 Snyder Ave,918 Snyder Ave,Philadelphia,PA,19148,NA,NA,"$1,750",NA,39.92318,-75.16198,https://www.apartments.com/918-snyder-ave-philadelphia-pa/1w1gw96/
+458,2020 E Rittenhouse St,2020 E Rittenhouse St,Philadelphia,PA,19138,NA,NA,NA,"$1,200",40.05792,-75.15156,https://www.apartments.com/2020-e-rittenhouse-st-philadelphia-pa/qmbl7my/
+459,2566 E Ontario St,2566 E Ontario St,Philadelphia,PA,19134,NA,NA,NA,"$1,150",39.98801,-75.09928,https://www.apartments.com/2566-e-ontario-st-philadelphia-pa/9eeep46/
+460,2601 Pennsylvania Ave Unit 222,2601 Pennsylvania Ave Unit 222,Philadelphia,PA,19130,NA,"$1,450",NA,NA,39.96804,-75.18011,https://www.apartments.com/2601-pennsylvania-ave-philadelphia-pa-unit-222/evn9hqm/
+461,5803 Addison St,5803 Addison St,Philadelphia,PA,19143,NA,NA,NA,"$1,100",39.95417,-75.23853,https://www.apartments.com/5803-addison-st-philadelphia-pa/4lqtrqk/
+462,The Franklin Residences,834 Chestnut St,Philadelphia,PA,19107,NA,"$1,799 – 2,400","$3,332 – 3,525",NA,39.94939,-75.1552,https://www.apartments.com/the-franklin-residences-philadelphia-pa/dbd8hml/
+463,2207 E Sergeant St,2207 E Sergeant St,Philadelphia,PA,19125,NA,NA,NA,"$1,500",39.9821,-75.12283,https://www.apartments.com/2207-e-sergeant-st-philadelphia-pa/h1xft83/
+464,2929 Cecil B. Moore Ave,2929 Cecil B. Moore Ave,Philadelphia,PA,19121,NA,NA,NA,NA,39.9821,-75.18288,https://www.apartments.com/2929-cecil-b-moore-ave-philadelphia-pa/evglq3n/
+465,821 N 15th St,821 N 15th St,Philadelphia,PA,19130,NA,"$1,400",NA,NA,39.96873,-75.1615,https://www.apartments.com/821-n-15th-st-philadelphia-pa/87msnp2/
+466,1659 Conklin St,1659 Conklin St,Philadelphia,PA,19124,NA,NA,NA,NA,40.02101,-75.0769,https://www.apartments.com/1659-conklin-st-philadelphia-pa/qj706yy/
+467,2316 N 27th St,2316 N 27th St,Philadelphia,PA,19132,NA,NA,NA,"$1,350",39.99102,-75.17709,https://www.apartments.com/2316-n-27th-st-philadelphia-pa/0h58w12/
+468,Chestnut Hill Tower,7600 Stenton Ave,Philadelphia,PA,19118,"$1,190 – 1,235",NA,"$1,651 – 1,877",NA,40.07325,-75.19056,https://www.apartments.com/chestnut-hill-tower-philadelphia-pa/txhrqp9/
+469,1949 N 4th St Unit 1,1949 N 4th St Unit 1,Philadelphia,PA,19122,NA,NA,NA,"$1,795",39.98078,-75.14056,https://www.apartments.com/1949-n-4th-st-philadelphia-pa-unit-1/hevn0c3/
+470,801 E Willard St Unit 1,801 E Willard St Unit 1,Philadelphia,PA,19134,NA,NA,$750,NA,39.99804,-75.11504,https://www.apartments.com/801-e-willard-st-philadelphia-pa-unit-1/n07v31m/
+471,2312 Madison Square,2312 Madison Square,Philadelphia,PA,19146,NA,NA,NA,"$2,100",39.94225,-75.18162,https://www.apartments.com/2312-madison-square-philadelphia-pa/x4pl77q/
+472,1737 Ingersoll St Unit A,1737 Ingersoll St Unit A,Philadelphia,PA,19121,NA,NA,"$1,800",NA,39.97482,-75.16491,https://www.apartments.com/1737-ingersoll-st-philadelphia-pa-unit-a/cg55rtg/
+473,4200 Pine St Unit 502,4200 Pine St Unit 502,Philadelphia,PA,19104,NA,NA,"$2,200",NA,39.95084,-75.20768,https://www.apartments.com/4200-pine-st-philadelphia-pa-unit-502/krcs8v8/
+474,Tacony Crossing by ONEWALL,155 E Godfrey Ave,Philadelphia,PA,19120,NA,$875 – 999,"$1,100 – 1,300",NA,40.04483,-75.11622,https://www.apartments.com/tacony-crossing-by-onewall-philadelphia-pa/e1djx4m/
+475,4507 Brown St,4507 Brown St,Philadelphia,PA,19139,NA,NA,NA,"$1,550",39.96685,-75.21289,https://www.apartments.com/4507-brown-st-philadelphia-pa/z21f28z/
+476,1437 S 2nd St,1437 S 2nd St,Philadelphia,PA,19147,NA,NA,NA,"$1,995",39.92939,-75.14809,https://www.apartments.com/1437-s-2nd-st-philadelphia-pa/1ynrpf4/
+477,2802 Winton St,2802 Winton St,Philadelphia,PA,19145,NA,NA,NA,"$1,095",39.92637,-75.19282,https://www.apartments.com/2802-winton-st-philadelphia-pa/n9cdj9p/
+478,210 Locust St Unit 4D,210 Locust St Unit 4D,Philadelphia,PA,19106,NA,"$1,695",NA,NA,39.9451,-75.14514,https://www.apartments.com/210-locust-st-philadelphia-pa-unit-4d/pwwrgqs/
+479,1002 Fairmount Ave,1002 Fairmount Ave,Philadelphia,PA,19123,NA,NA,NA,"$2,300",39.96518,-75.15395,https://www.apartments.com/1002-fairmount-ave-philadelphia-pa/37pz4rf/
+480,Apex Manayunk,4601 Flat Rock Rd,Philadelphia,PA,19127,NA,"$1,744 – 2,702","$2,144 – 3,742","$2,414 – 3,412",40.0291,-75.23162,https://www.apartments.com/apex-manayunk-philadelphia-pa/eym0g5m/
+481,5923 N Broad St,5923 N Broad St,Philadelphia,PA,19141,NA,NA,"$1,200",NA,40.04355,-75.14327,https://www.apartments.com/5923-n-broad-st-philadelphia-pa/31fz28d/
+482,227 Dawson St,227 Dawson St,Philadelphia,PA,19128,NA,NA,"$1,450",NA,40.01977,-75.21097,https://www.apartments.com/227-dawson-st-philadelphia-pa/0rdt0w2/
+483,33 Letitia St,33 Letitia St,Philadelphia,PA,19106,NA,"$1,845",NA,NA,39.94889,-75.14313,https://www.apartments.com/33-letitia-st-philadelphia-pa/9z0vkw7/
+484,825 N 29th St Unit 3F,825 N 29th St Unit 3F,Philadelphia,PA,19130,NA,"$1,600",NA,NA,39.97173,-75.18373,https://www.apartments.com/825-n-29th-st-philadelphia-pa-unit-3f/y5h7jpv/
+485,2965 Tilton St,2965 Tilton St,Philadelphia,PA,19134,NA,NA,NA,"$1,350",39.98094,-75.10755,https://www.apartments.com/2965-tilton-st-philadelphia-pa/cr58w7f/
+486,The Commonwealth,1201 Chestnut St,Philadelphia,PA,19107,NA,"$1,795 – 5,080","$2,595 – 5,525",NA,39.95071,-75.16032,https://www.apartments.com/the-commonwealth-philadelphia-pa/mcysbhk/
+487,1841 W Albanus St,1841 W Albanus St,Philadelphia,PA,19141,NA,NA,NA,$995,40.02976,-75.15457,https://www.apartments.com/1841-w-albanus-st-philadelphia-pa/xtrewpm/
+488,2738 N Ringgold St,2738 N Ringgold St,Philadelphia,PA,19132,NA,NA,"$1,250",NA,39.99701,-75.17126,https://www.apartments.com/2738-n-ringgold-st-philadelphia-pa/b5x70q9/
+489,7024 Torresdale Ave,7024 Torresdale Ave,Philadelphia,PA,19135,NA,NA,NA,"$2,000",40.02785,-75.04012,https://www.apartments.com/7024-torresdale-ave-philadelphia-pa/qv50f8x/
+490,5303 Magnolia St,5303 Magnolia St,Philadelphia,PA,19144,NA,NA,NA,"$1,100",40.03842,-75.16208,https://www.apartments.com/5303-magnolia-st-philadelphia-pa/eg17nmn/
+491,4322 Howell St,4322 Howell St,Philadelphia,PA,19135,NA,NA,$950,NA,40.02025,-75.06392,https://www.apartments.com/4322-howell-st-philadelphia-pa/yk4nt6v/
+492,5711 Chew Ave,5711 Chew Ave,Philadelphia,PA,19138,NA,NA,NA,NA,40.04589,-75.16504,https://www.apartments.com/5711-chew-ave-philadelphia-pa/1jvh794/
+493,3608 Spring Garden St,3608 Spring Garden St,Philadelphia,PA,19104,NA,"$1,275",NA,NA,39.96229,-75.19493,https://www.apartments.com/3608-spring-garden-st-philadelphia-pa/e4fw2mq/
+494,2122 N 18th St,2122 N 18th St,Philadelphia,PA,19121,NA,NA,"$1,100",NA,39.98635,-75.16303,https://www.apartments.com/2122-n-18th-st-philadelphia-pa/tjkpqp8/
+495,1804 S Ringgold St,1804 S Ringgold St,Philadelphia,PA,19145,NA,NA,NA,"$1,095",39.93007,-75.18596,https://www.apartments.com/1804-s-ringgold-st-philadelphia-pa/52wq1mq/
+496,2212 N Camac St,2212 N Camac St,Philadelphia,PA,19133,NA,NA,NA,NA,39.9863,-75.15341,https://www.apartments.com/2212-n-camac-st-philadelphia-pa/e79z4bm/
+497,5721 Morris St,5721 Morris St,Philadelphia,PA,19144,NA,$875,NA,NA,40.03018,-75.18227,https://www.apartments.com/5721-morris-st-philadelphia-pa/pggsgcr/
+498,527 S 7th St,527 S 7th St,Philadelphia,PA,19147,NA,NA,NA,NA,39.94247,-75.1537,https://www.apartments.com/527-s-7th-st-philadelphia-pa/1b7e4z4/
+499,5938 Henry Ave Unit 23,5938 Henry Ave Unit 23,Philadelphia,PA,19128,NA,NA,NA,"$1,995",40.03292,-75.20842,https://www.apartments.com/5938-henry-ave-philadelphia-pa-unit-23/3rsd0xd/
+500,331 Winton St,331 Winton St,Philadelphia,PA,19148,NA,NA,"$1,800",NA,39.9214,-75.15221,https://www.apartments.com/331-winton-st-philadelphia-pa/rpjgvq0/
+501,237 N 23rd St,237 N 23rd St,Philadelphia,PA,19103,NA,NA,NA,"$6,900",39.95882,-75.1766,https://www.apartments.com/237-n-23rd-st-philadelphia-pa/dh4mrqh/
+502,Independence Lofts,525-533 N 11th St,Philadelphia,PA,19123,"$1,600 – 2,000",NA,"$1,980 – 2,382",NA,39.96244,-75.15551,https://www.apartments.com/independence-lofts-philadelphia-pa/bxlql0b/
+503,529 N 3rd St,529 N 3rd St,Philadelphia,PA,19123,NA,NA,NA,NA,39.96059,-75.14339,https://www.apartments.com/529-n-3rd-st-philadelphia-pa/xx06q7p/
+504,536 S 45th St,536 S 45th St,Philadelphia,PA,19104,NA,NA,NA,NA,39.94944,-75.2132,https://www.apartments.com/536-s-45th-st-philadelphia-pa/mgfv0yj/
+505,1156 S Carlisle St,1156 S Carlisle St,Philadelphia,PA,19146,NA,NA,NA,"$2,500",39.93635,-75.16823,https://www.apartments.com/1156-s-carlisle-st-philadelphia-pa/yz3nc0s/
+506,29 Wiota St,29 Wiota St,Philadelphia,PA,19104,NA,NA,NA,NA,39.95805,-75.2025,https://www.apartments.com/29-wiota-st-philadelphia-pa/z3kz96y/
+507,4520 Springfield Ave Unit A6,4520 Springfield Ave Unit A6,Philadelphia,PA,19143,NA,NA,"$1,500",NA,39.94805,-75.2129,https://www.apartments.com/4520-springfield-ave-philadelphia-pa-unit-a6/g78jr9x/
+508,The Point at City Line,6100 City Ave,Philadelphia,PA,19131,NA,"$1,191 – 1,838","$1,532 – 1,874","$2,271 – 2,606",39.99048,-75.2486,https://www.apartments.com/the-point-at-city-line-philadelphia-pa/nqv8lbn/
+509,2604 Memphis St,2604 Memphis St,Philadelphia,PA,19125,NA,NA,"$1,275",NA,39.98179,-75.12078,https://www.apartments.com/2604-memphis-st-philadelphia-pa/mjd2deh/
+510,5414 Irving St,5414 Irving St,Philadelphia,PA,19139,NA,NA,NA,"$1,275",39.95559,-75.23034,https://www.apartments.com/5414-irving-st-philadelphia-pa/7rkmcnw/
+511,381 Delmar St,381 Delmar St,Philadelphia,PA,19128,NA,NA,NA,"$1,750",40.03759,-75.22578,https://www.apartments.com/381-delmar-st-philadelphia-pa/263t6mb/
+512,1336 S Corlies St,1336 S Corlies St,Philadelphia,PA,19146,NA,NA,$950,NA,39.93683,-75.19447,https://www.apartments.com/1336-s-corlies-st-philadelphia-pa/k32pgf8/
+513,5222 Catharine St,5222 Catharine St,Philadelphia,PA,19143,NA,NA,$995,NA,39.94888,-75.22829,https://www.apartments.com/5222-catharine-st-philadelphia-pa/pjbkexs/
+514,Cherokee,7715 McCallum St,Philadelphia,PA,19118,NA,"$1,240","$1,460 – 1,820","$2,465",40.0576,-75.20961,https://www.apartments.com/cherokee-philadelphia-pa/bh31d59/
+515,2812 S Sydenham St,2812 S Sydenham St,Philadelphia,PA,19145,NA,NA,"$1,250",NA,39.91575,-75.17413,https://www.apartments.com/2812-s-sydenham-st-philadelphia-pa/ndje2jn/
+516,2676 Lefevre St,2676 Lefevre St,Philadelphia,PA,19137,NA,NA,NA,"$1,450",40.00009,-75.07237,https://www.apartments.com/2676-lefevre-st-philadelphia-pa/vyq7p6f/
+517,1517 W Page St,1517 W Page St,Philadelphia,PA,19121,NA,NA,NA,NA,39.98405,-75.15884,https://www.apartments.com/1517-w-page-st-philadelphia-pa/et0kj3q/
+518,2418 Frankford Ave Unit 4,2418 Frankford Ave Unit 4,Philadelphia,PA,19125,NA,NA,"$1,695",NA,39.98202,-75.12739,https://www.apartments.com/2418-frankford-ave-philadelphia-pa-unit-4/tss76b9/
+519,9329 Walker St,9329 Walker St,Philadelphia,PA,19114,NA,$895,NA,NA,40.05596,-75.00109,https://www.apartments.com/9329-walker-st-philadelphia-pa/sztrsw7/
+520,Imperial Towers,3801 Conshohocken Ave,Philadelphia,PA,19131,"$1,090 – 1,410","$1,070 – 1,725","$1,165 – 2,240",NA,40.00377,-75.20576,https://www.apartments.com/imperial-towers-philadelphia-pa/z5m8jhw/
+521,1532 N 7th St,1532 N 7th St,Philadelphia,PA,19122,NA,NA,NA,"$2,300",39.97534,-75.14744,https://www.apartments.com/1532-n-7th-st-philadelphia-pa/l7kr28g/
+522,3809 Spring Garden St Unit 211,3809 Spring Garden St Unit 211,Philadelphia,PA,19104,"$1,225",NA,NA,NA,39.96243,-75.19871,https://www.apartments.com/3809-spring-garden-st-philadelphia-pa-unit-211/ftkdzms/
+523,156 Roxborough Ave,156 Roxborough Ave,Philadelphia,PA,19127,NA,NA,NA,NA,40.02605,-75.2204,https://www.apartments.com/156-roxborough-ave-philadelphia-pa/46vhgxh/
+524,229 W Calvert St,229 W Calvert St,Philadelphia,PA,19120,NA,NA,NA,"$1,200",40.04,-75.12511,https://www.apartments.com/229-w-calvert-st-philadelphia-pa/bbm8w4b/
+525,2549 S Jessup St,2549 S Jessup St,Philadelphia,PA,19148,NA,NA,NA,"$1,350",39.91774,-75.16614,https://www.apartments.com/2549-s-jessup-st-philadelphia-pa/h4gkbz0/
+526,Bridge on Race,205 Race St,Philadelphia,PA,19106,"$1,625 – 2,305","$1,850 – 3,000","$2,805 – 4,160",NA,39.95398,-75.14331,https://www.apartments.com/bridge-on-race-philadelphia-pa/xxf2e4n/
+527,430 Kingsley St,430 Kingsley St,Philadelphia,PA,19128,NA,NA,NA,NA,40.02519,-75.2114,https://www.apartments.com/430-kingsley-st-philadelphia-pa/16xlwl6/
+528,4220 Chestnut St Unit 1,4220 Chestnut St Unit 1,Philadelphia,PA,19104,NA,NA,NA,"$1,375",39.95592,-75.20688,https://www.apartments.com/4220-chestnut-st-philadelphia-pa-unit-1/xlbgs2n/
+529,2612 S Juniper St,2612 S Juniper St,Philadelphia,PA,19148,NA,NA,NA,"$1,350",39.91767,-75.1701,https://www.apartments.com/2612-s-juniper-st-philadelphia-pa/26j82b8/
+530,629 N 32nd St,629 N 32nd St,Philadelphia,PA,19104,NA,NA,"$1,450",NA,39.96525,-75.18858,https://www.apartments.com/629-n-32nd-st-philadelphia-pa/hc7tqz3/
+531,2026 Market St Unit 807,2026 Market St Unit 807,Philadelphia,PA,19103,NA,"$1,925",NA,NA,39.95332,-75.17412,https://www.apartments.com/2026-market-st-philadelphia-pa-unit-807/4v08pgl/
+532,1115 E Stafford St,1115 E Stafford St,Philadelphia,PA,19138,NA,NA,NA,"$1,150",40.05052,-75.16098,https://www.apartments.com/1115-e-stafford-st-philadelphia-pa/cdf955f/
+533,415 N 41st St Unit 1,415 N 41st St Unit 1,Philadelphia,PA,19104,NA,NA,NA,NA,39.96063,-75.20508,https://www.apartments.com/415-n-41st-st-philadelphia-pa-unit-1/3hd9wqd/
+534,502 Gerhard St Unit 6,502 Gerhard St Unit 6,Philadelphia,PA,19128,NA,NA,"$1,700",NA,40.03106,-75.21158,https://www.apartments.com/502-gerhard-st-philadelphia-pa-unit-6/w5rd11j/
+535,7816 Frontenac St,7816 Frontenac St,Philadelphia,PA,19111,NA,$825,NA,NA,40.06093,-75.06286,https://www.apartments.com/7816-frontenac-st-philadelphia-pa/e4f7knp/
+536,344 Van Kirk St,344 Van Kirk St,Philadelphia,PA,19120,NA,NA,$940,NA,40.04527,-75.10552,https://www.apartments.com/344-van-kirk-st-philadelphia-pa/b6zedmb/
+537,Lincoln Court Apartments,6351 Overbook Ave,Philadelphia,PA,19151,NA,"$1,150 – 1,275","$1,400 – 1,500",NA,39.98767,-75.25213,https://www.apartments.com/lincoln-court-apartments-philadelphia-pa/wpls2mk/
+538,3512 Lancaster Ave Unit 1W,3512 Lancaster Ave Unit 1W,Philadelphia,PA,19104,NA,NA,NA,"$2,207",39.95788,-75.19284,https://www.apartments.com/3512-lancaster-ave-philadelphia-pa-unit-1w/v47xsdf/
+539,3715 N Sydenham St,3715 N Sydenham St,Philadelphia,PA,19140,NA,NA,NA,NA,40.01011,-75.15333,https://www.apartments.com/3715-n-sydenham-st-philadelphia-pa/mm581fh/
+540,1228 Arch St Unit 2C,1228 Arch St Unit 2C,Philadelphia,PA,19107,NA,"$1,675",NA,NA,39.95386,-75.16087,https://www.apartments.com/1228-arch-st-philadelphia-pa-unit-2c/e74w6zm/
+541,3205 Powelton Ave Unit A,3205 Powelton Ave Unit A,Philadelphia,PA,19104,NA,NA,"$1,750",NA,39.96072,-75.18829,https://www.apartments.com/3205-powelton-ave-philadelphia-pa-unit-a/4wrkgkh/
+542,14 Newton St,14 Newton St,Philadelphia,PA,19118,NA,"$1,750",NA,NA,40.08154,-75.20744,https://www.apartments.com/14-newton-st-philadelphia-pa/qhbhbcw/
+543,3450 J St Unit 128,3450 J St Unit 128,Philadelphia,PA,19134,NA,"$1,850",NA,NA,40.00021,-75.10901,https://www.apartments.com/3450-j-st-philadelphia-pa-unit-128/ctj8kld/
+544,1227 N Myrtlewood St,1227 N Myrtlewood St,Philadelphia,PA,19121,NA,NA,NA,NA,39.97554,-75.18422,https://www.apartments.com/1227-n-myrtlewood-st-philadelphia-pa/teb9ew8/
+545,4829 Baltimore Ave Unit D,4829 Baltimore Ave Unit D,Philadelphia,PA,19143,NA,NA,"$2,000",NA,39.94847,-75.22063,https://www.apartments.com/4829-baltimore-ave-philadelphia-pa-unit-d/c00mbhd/
+546,1914 N 63rd St,1914 N 63rd St,Philadelphia,PA,19151,NA,NA,NA,NA,39.9841,-75.24772,https://www.apartments.com/1914-n-63rd-st-philadelphia-pa/tgxz5k8/
+547,"2200 Benjamin Franklin Pkwy Unit 2BD, 2BA","2200 Benjamin Franklin Pkwy Unit 2BD, 2BA",Philadelphia,PA,19130,NA,NA,"$3,054",NA,39.96402,-75.16228,https://www.apartments.com/2200-benjamin-franklin-pkwy-philadelphia-pa-unit-2bd-2ba/ns7bv0m/
+548,1919 Market St.,1919 Market St,Philadelphia,PA,19103,"$1,740 – 2,090","$2,360 – 3,625","$2,915 – 5,095",Call for Rent,39.95378,-75.17271,https://www.apartments.com/1919-market-st-philadelphia-pa/z6xq6wz/
+549,241 S 6th St Unit 2306,241 S 6th St Unit 2306,Philadelphia,PA,19106,NA,"$1,695",NA,NA,39.94626,-75.15134,https://www.apartments.com/241-s-6th-st-philadelphia-pa-unit-2306/5f58pxq/
+550,600 W Luray St,600 W Luray St,Philadelphia,PA,19140,NA,NA,NA,"$1,100",40.02151,-75.13652,https://www.apartments.com/600-w-luray-st-philadelphia-pa/25yhmrc/
+551,2535 Tilton St,2535 Tilton St,Philadelphia,PA,19125,NA,NA,NA,"$1,650",39.97567,-75.11763,https://www.apartments.com/2535-tilton-st-philadelphia-pa/bbgf3f9/
+552,4000 Gypsy Ln Unit 626,4000 Gypsy Ln Unit 626,Philadelphia,PA,19129,NA,NA,"$1,550",NA,40.01527,-75.20132,https://www.apartments.com/4000-gypsy-ln-philadelphia-pa-unit-626/jgj1ng4/
+553,2333 N Park Ave,2333 N Park Ave,Philadelphia,PA,19132,NA,NA,NA,"$1,350",39.98848,-75.1541,https://www.apartments.com/2333-n-park-ave-philadelphia-pa/87j2x32/
+554,Alden Park,5500 Wissahickon Ave,Philadelphia,PA,19144,"$842 – 3,377","$1,275 – 4,451","$1,294 – 11,392","$2,180 – 7,609",40.02708,-75.18425,https://www.apartments.com/alden-park-philadelphia-pa/83f95m3/
+555,3141 N Percy St,3141 N Percy St,Philadelphia,PA,19133,NA,NA,NA,"$1,200",39.99983,-75.14499,https://www.apartments.com/3141-n-percy-st-philadelphia-pa/fs94cjr/
+556,5139 Hadfield St,5139 Hadfield St,Philadelphia,PA,19143,NA,NA,"$1,900",NA,39.94691,-75.22593,https://www.apartments.com/5139-hadfield-st-philadelphia-pa/ggxenrw/
+557,3400 Belgrade St Unit 306,3400 Belgrade St Unit 306,Philadelphia,PA,19134,NA,"$1,125",NA,NA,39.98919,-75.09941,https://www.apartments.com/3400-belgrade-st-philadelphia-pa-unit-306/537xqtp/
+558,2240 Brill St,2240 Brill St,Philadelphia,PA,19137,NA,NA,$950,NA,40.01009,-75.06735,https://www.apartments.com/2240-brill-st-philadelphia-pa/ggpq3xx/
+559,1811-19 Chestnut St Unit 407,1811-19 Chestnut St Unit 407,Philadelphia,PA,19103,NA,NA,"$2,800",NA,39.95204,-75.17088,https://www.apartments.com/1811-19-chestnut-st-philadelphia-pa-unit-407/ryltte3/
+560,The Dane,2201 Bryn Mawr Ave,Philadelphia,PA,19131,"$1,198 – 1,479","$1,438 – 1,698","$1,595 – 2,211",NA,39.99015,-75.22607,https://www.apartments.com/the-dane-philadelphia-pa/mz3lvnk/
+561,2360 N 12th St,2360 N 12th St,Philadelphia,PA,19133,NA,NA,NA,"$1,850",39.98872,-75.15205,https://www.apartments.com/2360-n-12th-st-philadelphia-pa/dexfsbk/
+562,6413 Old York Rd Unit 1,6413 Old York Rd Unit 1,Philadelphia,PA,19126,NA,NA,"$1,050",NA,40.05166,-75.14296,https://www.apartments.com/6413-old-york-rd-philadelphia-pa-unit-1/0wn4le2/
+563,2233 Fontain St,2233 Fontain St,Philadelphia,PA,19121,NA,NA,NA,NA,39.98617,-75.17092,https://www.apartments.com/2233-fontain-st-philadelphia-pa/d848q8j/
+564,750 S 18th St,750 S 18th St,Philadelphia,PA,19146,NA,NA,NA,"$3,600",39.94233,-75.17257,https://www.apartments.com/750-s-18th-st-philadelphia-pa/s6hptx6/
+565,761 N 23rd St,761 N 23rd St,Philadelphia,PA,19130,NA,NA,NA,"$1,800",39.96898,-75.17483,https://www.apartments.com/761-n-23rd-st-philadelphia-pa/yc8sqyv/
+566,Bala Apartments,4920-4950 City Ave,Philadelphia,PA,19131,$745,"$945 – 1,175","$1,175 – 1,225","$1,625",40.00016,-75.22772,https://www.apartments.com/bala-apartments-philadelphia-pa/jejegh7/
+567,6024 Larchwood Ave Unit C4,6024 Larchwood Ave Unit C4,Philadelphia,PA,19143,NA,$700,NA,NA,39.95314,-75.24369,https://www.apartments.com/6024-larchwood-ave-philadelphia-pa-unit-c4/txhxje9/
+568,236 Parker Ave,236 Parker Ave,Philadelphia,PA,19128,NA,NA,NA,NA,40.03761,-75.23227,https://www.apartments.com/236-parker-ave-philadelphia-pa/fc5msds/
+569,5709 Thomas Ave,5709 Thomas Ave,Philadelphia,PA,19143,NA,NA,"$1,000",NA,39.94328,-75.23605,https://www.apartments.com/5709-thomas-ave-philadelphia-pa/2sdrvs8/
+570,54 E Herman St,54 E Herman St,Philadelphia,PA,19144,NA,$825,NA,NA,40.04183,-75.17794,https://www.apartments.com/54-e-herman-st-philadelphia-pa/st0s0w7/
+571,822 N Ringgold St,822 N Ringgold St,Philadelphia,PA,19130,NA,NA,NA,"$2,850",39.97048,-75.17705,https://www.apartments.com/822-n-ringgold-st-philadelphia-pa/yb34rrs/
+572,Lincoln Square,1000 S Broad St,Philadelphia,PA,19146,"$1,537 – 2,679","$1,940 – 3,215","$2,692 – 4,142",Call for Rent,39.93837,-75.16754,https://www.apartments.com/lincoln-square-philadelphia-pa/2xrwhkb/
+573,2012 N 19th St,2012 N 19th St,Philadelphia,PA,19121,NA,"$1,000",NA,NA,39.98463,-75.16499,https://www.apartments.com/2012-n-19th-st-philadelphia-pa/c3h8r4d/
+574,3749 Lankenau Rd,3749 Lankenau Rd,Philadelphia,PA,19131,NA,NA,NA,"$1,650",40.00261,-75.20508,https://www.apartments.com/3749-lankenau-rd-philadelphia-pa/9mnpny7/
+575,1734 Georges Ln,1734 Georges Ln,Philadelphia,PA,19131,NA,NA,NA,"$1,300",39.98375,-75.22946,https://www.apartments.com/1734-georges-ln-philadelphia-pa/lwpd5ng/
+576,715 N 24th St Unit B,715 N 24th St Unit B,Philadelphia,PA,19130,NA,"$1,495",NA,NA,39.96781,-75.1767,https://www.apartments.com/715-n-24th-st-philadelphia-pa-unit-b/lyyd75f/
+577,703 W Annsbury St,703 W Annsbury St,Philadelphia,PA,19140,NA,$450,NA,NA,40.02077,-75.13784,https://www.apartments.com/703-w-annsbury-st-philadelphia-pa/gl6xtcz/
+578,6610 Germantown Ave Unit 404,6610 Germantown Ave Unit 404,Philadelphia,PA,19119,NA,NA,"$1,800",NA,40.05058,-75.18511,https://www.apartments.com/6610-germantown-ave-philadelphia-pa-unit-404/33w55md/
+579,5227 N Marshall St,5227 N Marshall St,Philadelphia,PA,19120,NA,NA,NA,"$1,095",40.03128,-75.13416,https://www.apartments.com/5227-n-marshall-st-philadelphia-pa/xw1zzhp/
+580,2166 N 7th St,2166 N 7th St,Philadelphia,PA,19122,NA,NA,NA,"$1,400",39.98469,-75.1457,https://www.apartments.com/2166-n-7th-st-philadelphia-pa/vk46esg/
+581,2203 Ellsworth St,2203 Ellsworth St,Philadelphia,PA,19146,NA,"$1,050",NA,NA,39.9387,-75.18046,https://www.apartments.com/2203-ellsworth-st-philadelphia-pa/z0d2gby/
+582,3535 Aspen St,3535 Aspen St,Philadelphia,PA,19104,NA,NA,NA,"$1,600",39.96731,-75.19495,https://www.apartments.com/3535-aspen-st-philadelphia-pa/cntpbxe/
+583,5426 Discher St,5426 Discher St,Philadelphia,PA,19124,NA,NA,NA,"$1,100",40.02883,-75.0809,https://www.apartments.com/5426-discher-st-philadelphia-pa/my8r36j/
+584,15117 Beverly Dr,15117 Beverly Dr,Philadelphia,PA,19116,NA,NA,"$1,199",NA,40.123,-74.99569,https://www.apartments.com/15117-beverly-dr-philadelphia-pa/y6vgj4t/
+585,1701-15 Locust St Unit 1606,1701-15 Locust St Unit 1606,Philadelphia,PA,19103,"$1,350",NA,NA,NA,39.94898,-75.16952,https://www.apartments.com/1701-15-locust-st-philadelphia-pa-unit-1606/q3461fz/
+586,6804 Quincy St,6804 Quincy St,Philadelphia,PA,19119,NA,$875,NA,NA,40.05015,-75.18962,https://www.apartments.com/6804-quincy-st-philadelphia-pa/zmw1tqx/
+587,250 S 13TH St Unit 1D,250 S 13TH St Unit 1D,PHILADELPHIA,PA,19107,NA,"$1,500",NA,NA,39.94712,-75.16349,https://www.apartments.com/250-s-13th-st-philadelphia-pa-unit-1d/klpd4n8/
+588,Dwell 2nd Street,1300 N 2nd St,Philadelphia,PA,19122,"$1,335 – 1,445","$1,900 – 2,000","$2,360 – 2,605",NA,39.97162,-75.13965,https://www.apartments.com/dwell-2nd-street-philadelphia-pa/hg1zgw1/
+589,142 Wright St,142 Wright St,Philadelphia,PA,19127,NA,NA,"$1,595",NA,40.0317,-75.23095,https://www.apartments.com/142-wright-st-philadelphia-pa/qeelb0w/
+590,2539 Grays Ferry Ave Unit 1,2539 Grays Ferry Ave Unit 1,Philadelphia,PA,19146,NA,NA,"$1,950",NA,39.94133,-75.18572,https://www.apartments.com/2539-grays-ferry-ave-philadelphia-pa-unit-1/prdz72s/
+591,2606 E Albert St,2606 E Albert St,Philadelphia,PA,19125,NA,NA,"$1,750",NA,39.97824,-75.11716,https://www.apartments.com/2606-e-albert-st-philadelphia-pa/fyxvfwr/
+592,703 N 64th St,703 N 64th St,Philadelphia,PA,19151,NA,NA,NA,"$1,400",39.97376,-75.24696,https://www.apartments.com/703-n-64th-st-philadelphia-pa/xv8klgn/
+593,223 E Clapier St,223 E Clapier St,Philadelphia,PA,19144,NA,NA,$850,NA,40.03127,-75.16049,https://www.apartments.com/223-e-clapier-st-philadelphia-pa/4s3t7nh/
+594,Arrive University City,3601 Market St,Philadelphia,PA,19104,"$1,685 – 2,675","$1,840 – 2,649","$3,115 – 4,885",NA,39.95663,-75.19446,https://www.apartments.com/arrive-university-city-philadelphia-pa/yl2tbxt/
+595,2602 Carroll St,2602 Carroll St,Philadelphia,PA,19142,NA,NA,NA,"$1,000",39.91751,-75.23356,https://www.apartments.com/2602-carroll-st-philadelphia-pa/4scg95k/
+596,731 Glenview St,731 Glenview St,Philadelphia,PA,19111,NA,NA,NA,NA,40.05245,-75.08508,https://www.apartments.com/731-glenview-st-philadelphia-pa/hgjvgt0/
+597,2312 N Colorado St,2312 N Colorado St,Philadelphia,PA,19132,NA,NA,NA,"$1,450",39.98894,-75.16131,https://www.apartments.com/2312-n-colorado-st-philadelphia-pa/919r164/
+598,4232 Loring St,4232 Loring St,Philadelphia,PA,19136,NA,NA,NA,"$1,195",40.03621,-75.03603,https://www.apartments.com/4232-loring-st-philadelphia-pa/t0djrnb/
+599,9908 Bustleton Ave Unit B4,9908 Bustleton Ave Unit B4,Philadelphia,PA,19115,NA,NA,"$1,350",NA,40.09998,-75.0312,https://www.apartments.com/9908-bustleton-ave-philadelphia-pa-unit-b4/20g9rzb/
+600,1600 Callowhill,1600 Callowhill St,Philadelphia,PA,19130,"$1,990","$2,504",Call for Rent,NA,39.95981,-75.16576,https://www.apartments.com/1600-callowhill-philadelphia-pa/smplw16/
+601,2100 Delancey Pl Unit 7,2100 Delancey Pl Unit 7,Philadelphia,PA,19103,NA,"$2,300",NA,NA,39.94745,-75.17672,https://www.apartments.com/2100-delancey-pl-philadelphia-pa-unit-7/2ftq0p9/
+602,253 Hansberry St Unit 1R,253 Hansberry St Unit 1R,Philadelphia,PA,19144,NA,$850,NA,NA,40.02601,-75.1727,https://www.apartments.com/253-hansberry-st-philadelphia-pa-unit-1r/07ynjg1/
+603,612 Winton St,612 Winton St,Philadelphia,PA,19148,NA,NA,"$1,075",NA,39.92186,-75.15742,https://www.apartments.com/612-winton-st-philadelphia-pa/4h2jp4l/
+604,2510 E Sergeant St,2510 E Sergeant St,Philadelphia,PA,19125,NA,NA,NA,"$2,400",39.97867,-75.12028,https://www.apartments.com/2510-e-sergeant-st-philadelphia-pa/yndtt5v/
+605,4453 N Cleveland St,4453 N Cleveland St,Philadelphia,PA,19140,NA,NA,NA,"$1,400",40.02194,-75.15542,https://www.apartments.com/4453-n-cleveland-st-philadelphia-pa/pxst0ct/
+606,4235 Otter St,4235 Otter St,Philadelphia,PA,19104,NA,NA,NA,"$1,125",39.97108,-75.20986,https://www.apartments.com/4235-otter-st-philadelphia-pa/kfny30c/
+607,47-49 W Highland Ave,47-49 W Highland Ave,Philadelphia,PA,19118,NA,"$1,350",NA,NA,40.07491,-75.20787,https://www.apartments.com/47-49-w-highland-ave-philadelphia-pa/4nv8h6k/
+608,6333 Morton St,6333 Morton St,Philadelphia,PA,19144,NA,$750,NA,NA,40.04703,-75.17867,https://www.apartments.com/6333-morton-st-philadelphia-pa/y3sn9ls/
+609,41 N 61st St,41 N 61st St,Philadelphia,PA,19139,NA,NA,NA,NA,39.96319,-75.24226,https://www.apartments.com/41-n-61st-st-philadelphia-pa/0skcvc0/
+610,3522 Rhawn St,3522 Rhawn St,Philadelphia,PA,19136,NA,$825,NA,NA,40.04244,-75.02932,https://www.apartments.com/3522-rhawn-st-philadelphia-pa/30s9jed/
+611,The LVL 4125,4125-4136 Chestnut St,Philadelphia,PA,19104,Call for Rent,"$1,965 – 2,860",Call for Rent,NA,39.95626,-75.20552,https://www.apartments.com/the-lvl-4125-philadelphia-pa/w67tywk/
+612,905 N 5th St,905 N 5th St,Philadelphia,PA,19123,NA,NA,NA,"$3,000",39.96689,-75.14585,https://www.apartments.com/905-n-5th-st-philadelphia-pa/18sc1d4/
+613,235 N 60th St,235 N 60th St,Philadelphia,PA,19139,NA,NA,NA,"$1,100",39.96583,-75.23971,https://www.apartments.com/235-n-60th-st-philadelphia-pa/81dtgk3/
+614,6708 N Woodstock St,6708 N Woodstock St,Philadelphia,PA,19138,NA,NA,NA,"$1,250",40.05632,-75.15329,https://www.apartments.com/6708-n-woodstock-st-philadelphia-pa/94yht64/
+615,1306 Grove St,1306 Grove St,Philadelphia,PA,19146,NA,NA,"$1,475",NA,39.93853,-75.20146,https://www.apartments.com/1306-grove-st-philadelphia-pa/em36xzn/
+616,1932 S 4th St,1932 S 4th St,Philadelphia,PA,19148,NA,NA,NA,"$1,900",39.92373,-75.15337,https://www.apartments.com/1932-s-4th-st-philadelphia-pa/6tbknvs/
+617,The National,121 N 2nd St,Philadelphia,PA,19106,"$1,991 – 2,066","$2,148 – 2,293","$3,445 – 3,502",NA,39.95233,-75.14281,https://www.apartments.com/the-national-philadelphia-pa/jxddv96/
+618,507 S 8th St Unit 308,507 S 8th St Unit 308,Philadelphia,PA,19147,NA,NA,"$2,595",NA,39.94784,-75.15424,https://www.apartments.com/507-s-8th-st-philadelphia-pa-unit-308/2fqht2b/
+619,105 W Ruscomb St,105 W Ruscomb St,Philadelphia,PA,19120,NA,NA,NA,$950,40.02724,-75.12341,https://www.apartments.com/105-w-ruscomb-st-philadelphia-pa/fypwt7t/
+620,2019 Poplar St,2019 Poplar St,Philadelphia,PA,19130,NA,NA,NA,"$2,900",39.97164,-75.16985,https://www.apartments.com/2019-poplar-st-philadelphia-pa/ffvqkwr/
+621,5445 Ridge Ave,5445 Ridge Ave,Philadelphia,PA,19128,NA,NA,NA,NA,40.0227,-75.20803,https://www.apartments.com/5445-ridge-ave-philadelphia-pa/q03mw0w/
+622,5951 Wister St,5951 Wister St,Philadelphia,PA,19138,NA,NA,NA,"$1,000",40.04454,-75.15801,https://www.apartments.com/5951-wister-st-philadelphia-pa/neqp9sq/
+623,5754 Reedland St,5754 Reedland St,Philadelphia,PA,19143,NA,NA,NA,$900,39.92944,-75.22084,https://www.apartments.com/5754-reedland-st-philadelphia-pa/py66xcv/
+624,3416 Stanwood St,3416 Stanwood St,Philadelphia,PA,19136,NA,NA,"$1,200",NA,40.0455,-75.0258,https://www.apartments.com/3416-stanwood-st-philadelphia-pa/7s8e8gy/
+625,4281 Leidy Ave,4281 Leidy Ave,Philadelphia,PA,19104,NA,NA,NA,"$1,196",39.97612,-75.21233,https://www.apartments.com/4281-leidy-ave-philadelphia-pa/pqj66nt/
+626,2941 N Franklin St,2941 N Franklin St,Philadelphia,PA,19133,NA,NA,NA,$950,39.99663,-75.14338,https://www.apartments.com/2941-n-franklin-st-philadelphia-pa/zhnkv9x/
+627,1605 W Dauphin St,1605 W Dauphin St,Philadelphia,PA,19132,NA,NA,NA,NA,39.98849,-75.1593,https://www.apartments.com/1605-w-dauphin-st-philadelphia-pa/5rp8c2n/
+628,6916 Ardleigh St,6916 Ardleigh St,Philadelphia,PA,19119,NA,NA,"$1,250",NA,40.06197,-75.18174,https://www.apartments.com/6916-ardleigh-st-philadelphia-pa/ry12x23/
+629,2148 Palethorp St,2148 Palethorp St,Philadelphia,PA,19122,NA,NA,"$1,300",NA,39.98305,-75.13624,https://www.apartments.com/2148-palethorp-st-philadelphia-pa/1rnq367/
+630,1233 S 29th St,1233 S 29th St,Philadelphia,PA,19146,NA,NA,NA,"$1,750",39.93823,-75.19162,https://www.apartments.com/1233-s-29th-st-philadelphia-pa/xbyc1zp/
+631,2813 Norcross Ln,2813 Norcross Ln,Philadelphia,PA,19114,NA,NA,"$1,100",NA,40.0683,-75.01605,https://www.apartments.com/2813-norcross-ln-philadelphia-pa/g6dsnkx/
+632,5913 McCallum St,5913 McCallum St,Philadelphia,PA,19144,NA,NA,"$1,339",NA,40.03682,-75.17794,https://www.apartments.com/5913-mccallum-st-philadelphia-pa/g3nzvhy/
+633,View at Old City,401 Race St,Philadelphia,PA,19106,"$1,552 – 2,042","$1,926 – 3,101","$2,746 – 3,974",NA,39.95459,-75.14716,https://www.apartments.com/view-at-old-city-philadelphia-pa/x1bf4wq/
+634,331 Lyceum Ave Unit 2,331 Lyceum Ave Unit 2,Philadelphia,PA,19128,NA,"$1,200",NA,NA,40.0292,-75.21958,https://www.apartments.com/331-lyceum-ave-philadelphia-pa-unit-2/qt3ff1x/
+635,3411 Cresson St Unit 1,3411 Cresson St Unit 1,Philadelphia,PA,19129,NA,"$1,050",NA,NA,40.01228,-75.19356,https://www.apartments.com/3411-cresson-st-philadelphia-pa-unit-1/dv7gqml/
+636,122 Manheim St Unit 4,122 Manheim St Unit 4,Philadelphia,PA,19144,$800,NA,NA,NA,40.02784,-75.16709,https://www.apartments.com/122-manheim-st-philadelphia-pa-unit-4/npldt0p/
+637,8615 Tiona St,8615 Tiona St,Philadelphia,PA,19128,NA,NA,NA,"$1,800",40.06596,-75.23527,https://www.apartments.com/8615-tiona-st-philadelphia-pa/fk3e6ev/
+638,2028 E Firth St,2028 E Firth St,Philadelphia,PA,19125,NA,NA,NA,"$1,800",39.98547,-75.12681,https://www.apartments.com/2028-e-firth-st-philadelphia-pa/0b23p93/
+639,The Pepper Building,1830 Lombard St,Philadelphia,PA,19146,NA,"$1,595 – 2,580","$2,150 – 3,075",NA,39.94542,-75.17294,https://www.apartments.com/the-pepper-building-philadelphia-pa/sr2b9f7/
+640,2603 S 73rd St,2603 S 73rd St,Philadelphia,PA,19153,NA,NA,NA,"$1,250",39.913,-75.24001,https://www.apartments.com/2603-s-73rd-st-philadelphia-pa/re5tlv2/
+641,1413 S 5th St,1413 S 5th St,Philadelphia,PA,19147,NA,NA,NA,"$3,200",39.93069,-75.15308,https://www.apartments.com/1413-s-5th-st-philadelphia-pa/pqdm1gv/
+642,7349 Woodcrest Ave,7349 Woodcrest Ave,Philadelphia,PA,19151,NA,NA,NA,"$1,450",39.97652,-75.26368,https://www.apartments.com/7349-woodcrest-ave-philadelphia-pa/r44cb90/
+643,1942 N Front St Unit 106,1942 N Front St Unit 106,Philadelphia,PA,19122,NA,"$1,375",NA,NA,39.9799,-75.13357,https://www.apartments.com/1942-n-front-st-philadelphia-pa-unit-106/zn3plny/
+644,6439 Edmund St,6439 Edmund St,Philadelphia,PA,19135,NA,$750,NA,NA,40.02044,-75.04922,https://www.apartments.com/6439-edmund-st-philadelphia-pa/yzsg2dr/
+645,The Alexander,1601 Vine St,Philadelphia,PA,19102,"$1,704 – 3,861","$2,112 – 4,632","$2,665 – 6,472","$4,476 – 9,415",39.95884,-75.16593,https://www.apartments.com/the-alexander-philadelphia-pa/njfrbjm/
+646,1105 Knorr St,1105 Knorr St,Philadelphia,PA,19111,NA,NA,NA,"$1,350",40.04842,-75.07931,https://www.apartments.com/1105-knorr-st-philadelphia-pa/exh6rqq/
+647,1544 Van Kirk St,1544 Van Kirk St,Philadelphia,PA,19149,NA,NA,$940,NA,40.03004,-75.07807,https://www.apartments.com/1544-van-kirk-st-philadelphia-pa/4j2nmqk/
+648,1050 E Montgomery Ave Unit 204,1050 E Montgomery Ave Unit 204,Philadelphia,PA,19125,NA,NA,NA,"$1,600",39.96989,-75.12675,https://www.apartments.com/1050-e-montgomery-ave-philadelphia-pa-unit-204/6wpq1fs/
+649,2043 Mt Vernon St,2043 Mt Vernon St,Philadelphia,PA,19130,NA,NA,"$1,700",NA,39.96595,-75.17187,https://www.apartments.com/2043-mt-vernon-st-philadelphia-pa/82gsqt3/
+650,828 N Preston St,828 N Preston St,Philadelphia,PA,19104,NA,NA,NA,NA,39.96807,-75.20454,https://www.apartments.com/828-n-preston-st-philadelphia-pa/r399pf3/
+651,Winchester Walk*,2600 Welsh Rd,Philadelphia,PA,19152,NA,"$1,011 – 1,144","$1,204 – 1,299",NA,40.07113,-75.03252,https://www.apartments.com/winchester-walk-philadelphia-pa/c7hcw7g/
+652,2947 N Bailey St,2947 N Bailey St,Philadelphia,PA,19132,NA,NA,"$1,150",NA,40.00061,-75.17343,https://www.apartments.com/2947-n-bailey-st-philadelphia-pa/d275t8l/
+653,259 W Ruscomb St Unit 2ND FL,259 W Ruscomb St Unit 2ND FL,Philadelphia,PA,19120,NA,$750,NA,NA,40.02706,-75.12944,https://www.apartments.com/259-w-ruscomb-st-philadelphia-pa-unit-2nd-fl/9rdthx4/
+654,2923 Memphis St,2923 Memphis St,Philadelphia,PA,19134,NA,NA,NA,"$1,950",39.98561,-75.11318,https://www.apartments.com/2923-memphis-st-philadelphia-pa/58ephrm/
+655,153 N 60th St,153 N 60th St,Philadelphia,PA,19139,NA,NA,NA,"$1,100",39.96464,-75.2402,https://www.apartments.com/153-n-60th-st-philadelphia-pa/46peyfh/
+656,1251 Hellerman St,1251 Hellerman St,Philadelphia,PA,19111,NA,NA,NA,"$1,200",40.04293,-75.07986,https://www.apartments.com/1251-hellerman-st-philadelphia-pa/eeryn6q/
+657,The Collins,1125 Sansom St,Philadelphia,PA,19107,NA,"$1,871 – 2,864","$3,958 – 6,033",NA,39.94991,-75.15945,https://www.apartments.com/the-collins-philadelphia-pa/f79m92r/
+658,6211 Haverford Ave Unit 1,6211 Haverford Ave Unit 1,Philadelphia,PA,19151,NA,"$1,150",NA,NA,39.9719,-75.24328,https://www.apartments.com/6211-haverford-ave-philadelphia-pa-unit-1/5dxpmrq/
+659,3449 Ainslie St,3449 Ainslie St,Philadelphia,PA,19129,NA,NA,NA,"$1,850",40.01299,-75.1895,https://www.apartments.com/3449-ainslie-st-philadelphia-pa/9v3drl5/
+660,2009 Catharine St,2009 Catharine St,Philadelphia,PA,19146,NA,NA,NA,"$3,350",39.94219,-75.17601,https://www.apartments.com/2009-catharine-st-philadelphia-pa/w5t3pbj/
+661,6015 Woodcrest Ave,6015 Woodcrest Ave,Philadelphia,PA,19131,NA,NA,NA,"$1,700",39.98627,-75.24444,https://www.apartments.com/6015-woodcrest-ave-philadelphia-pa/twy57h9/
+662,6202 Hazel Ave,6202 Hazel Ave,Philadelphia,PA,19143,NA,NA,NA,"$1,300",39.95386,-75.24671,https://www.apartments.com/6202-hazel-ave-philadelphia-pa/1sb4t54/
+663,444 N 4th St Unit 301,444 N 4th St Unit 301,Philadelphia,PA,19123,NA,"$1,650",NA,NA,39.95913,-75.14542,https://www.apartments.com/444-n-4th-st-philadelphia-pa-unit-301/1t64se5/
+664,412 N Front St,412 N Front St,Philadelphia,PA,19123,NA,NA,NA,"$2,750",39.95746,-75.13985,https://www.apartments.com/412-n-front-st-philadelphia-pa/45svp0j/
+665,1006 S 5th St Unit 3RD FLOOR,1006 S 5th St Unit 3RD FLOOR,Philadelphia,PA,19147,NA,"$1,275",NA,NA,39.93578,-75.15234,https://www.apartments.com/1006-s-5th-st-philadelphia-pa-unit-3rd-floor/rnt7p91/
+666,1448 S 13th St Unit 2ND FL,1448 S 13th St Unit 2ND FL,Philadelphia,PA,19147,NA,"$1,300",NA,NA,39.93156,-75.16618,https://www.apartments.com/1448-s-13th-st-philadelphia-pa-unit-2nd-fl/6fns59r/
+667,3335 N Hancock St,3335 N Hancock St,Philadelphia,PA,19140,NA,NA,$850,NA,40.00122,-75.1315,https://www.apartments.com/3335-n-hancock-st-philadelphia-pa/8mwqqx1/
+668,International City Apartments,7900 Lindbergh Blvd,Philadelphia,PA,19153,"$900 – 1,353","$950 – 1,400","$1,135 – 1,550",NA,39.90209,-75.24635,https://www.apartments.com/international-city-apartments-philadelphia-pa/bwm4rj9/
+669,2117 Benson St,2117 Benson St,Philadelphia,PA,19152,NA,NA,NA,"$1,500",40.06554,-75.05048,https://www.apartments.com/2117-benson-st-philadelphia-pa/m654w0l/
+670,2026 W Spencer St,2026 W Spencer St,Philadelphia,PA,19138,NA,NA,NA,"$1,300",40.04719,-75.15502,https://www.apartments.com/2026-w-spencer-st-philadelphia-pa/mjfnm7k/
+671,1762 Frankford Ave,1762 Frankford Ave,Philadelphia,PA,19125,NA,NA,"$1,750",NA,39.97627,-75.13246,https://www.apartments.com/1762-frankford-ave-philadelphia-pa/ywjc2gr/
+672,924 S 20th St,924 S 20th St,Philadelphia,PA,19146,NA,NA,"$1,600",NA,39.94036,-75.17624,https://www.apartments.com/924-s-20th-st-philadelphia-pa/5h007vq/
+673,2029 Dickinson St,2029 Dickinson St,Philadelphia,PA,19146,NA,NA,NA,"$1,500",39.9332,-75.17852,https://www.apartments.com/2029-dickinson-st-philadelphia-pa/vbcyn3f/
+674,219 Krams Ave Unit C2,219 Krams Ave Unit C2,Philadelphia,PA,19127,NA,NA,"$1,700",NA,40.03039,-75.22536,https://www.apartments.com/219-krams-ave-philadelphia-pa-unit-c2/yld1wyr/
+675,1149 N 3rd St Unit D,1149 N 3rd St Unit D,Philadelphia,PA,19123,"$1,500",NA,NA,NA,39.96889,-75.14146,https://www.apartments.com/1149-n-3rd-st-philadelphia-pa-unit-d/vfvyj3e/
+676,6318 McCallum St,6318 McCallum St,Philadelphia,PA,19144,NA,NA,NA,NA,40.04116,-75.18369,https://www.apartments.com/6318-mccallum-st-philadelphia-pa/8bbqe80/
+677,3428 N 23rd St Unit 3,3428 N 23rd St Unit 3,Philadelphia,PA,19140,NA,$800,NA,NA,40.00741,-75.1669,https://www.apartments.com/3428-n-23rd-st-philadelphia-pa-unit-3/ple9wrr/
+678,2078 E Lippincott St,2078 E Lippincott St,Philadelphia,PA,19134,NA,NA,NA,"$1,050",39.99156,-75.11124,https://www.apartments.com/2078-e-lippincott-st-philadelphia-pa/h2jltk1/
+679,Ridge Carlton Apartments,7373 Ridge Ave,Philadelphia,PA,19128,NA,"$989 – 1,199","$1,279 – 1,431",NA,40.0478,-75.23402,https://www.apartments.com/ridge-carlton-apartments-philadelphia-pa/9beej87/
+680,1416 S 9th St,1416 S 9th St,Philadelphia,PA,19147,NA,$800,NA,NA,39.93138,-75.15974,https://www.apartments.com/1416-s-9th-st-philadelphia-pa/wxxvbxk/
+681,2851 S 65th St,2851 S 65th St,Philadelphia,PA,19142,NA,NA,NA,NA,39.91786,-75.22467,https://www.apartments.com/2851-s-65th-st-philadelphia-pa/4f0ycth/
+682,2212 Fairmount Ave Unit 2,2212 Fairmount Ave Unit 2,Philadelphia,PA,19130,NA,NA,"$1,745",NA,39.96709,-75.17433,https://www.apartments.com/2212-fairmount-ave-philadelphia-pa-unit-2/3vq3p6e/
+683,1504 N 61st St,1504 N 61st St,Philadelphia,PA,19151,NA,NA,NA,"$1,100",39.97435,-75.24183,https://www.apartments.com/1504-n-61st-st-philadelphia-pa/ly1llkf/
+684,5358 Woodland Ave Unit 2ND FL FRONT,5358 Woodland Ave Unit 2ND FL FRONT,Philadelphia,PA,19143,NA,$950,NA,NA,39.93627,-75.21864,https://www.apartments.com/5358-woodland-ave-philadelphia-pa-unit-2nd-fl-front/53q564n/
+685,Adams at Presidential City,3800 City Ave,Philadelphia,PA,19131,"$1,305 – 1,485","$1,665 – 2,015","$1,925 – 2,235","$2,895 – 3,035",40.00826,-75.20561,https://www.apartments.com/adams-at-presidential-city-philadelphia-pa/z2dgeqx/
+686,4732 Hartel Ave,4732 Hartel Ave,Philadelphia,PA,19136,NA,NA,NA,"$1,100",40.03331,-75.02697,https://www.apartments.com/4732-hartel-ave-philadelphia-pa/3y33lyf/
+687,441 Tomlinson Rd,441 Tomlinson Rd,Philadelphia,PA,19116,NA,NA,"$1,550",NA,40.11592,-75.02652,https://www.apartments.com/441-tomlinson-rd-philadelphia-pa/2f70eq8/
+688,1600-18 Arch St Unit 1806,1600-18 Arch St Unit 1806,Philadelphia,PA,19103,NA,NA,"$3,000",NA,39.95478,-75.16654,https://www.apartments.com/1600-18-arch-st-philadelphia-pa-unit-1806/jg29m46/
+689,1441 S 16th St,1441 S 16th St,Philadelphia,PA,19146,NA,NA,NA,"$1,500",39.93248,-75.17108,https://www.apartments.com/1441-s-16th-st-philadelphia-pa/k8xhccb/
+690,821 N Franklin St,821 N Franklin St,Philadelphia,PA,19123,NA,NA,"$1,900",NA,39.96594,-75.14968,https://www.apartments.com/821-n-franklin-st-philadelphia-pa/zll700x/
+691,Jefferson at Presidential City,3900 City Ave,Philadelphia,PA,19131,"$1,295 – 1,495","$1,365 – 1,915","$2,395 – 2,775",NA,40.00843,-75.2071,https://www.apartments.com/jefferson-at-presidential-city-philadelphia-pa/90t98h5/
+692,519 N 58th St,519 N 58th St,Philadelphia,PA,19131,NA,NA,NA,NA,39.96897,-75.23519,https://www.apartments.com/519-n-58th-st-philadelphia-pa/yfyc9cv/
+693,2425 S Hicks St,2425 S Hicks St,Philadelphia,PA,19145,NA,NA,"$1,200",NA,39.92033,-75.17273,https://www.apartments.com/2425-s-hicks-st-philadelphia-pa/62b6rgt/
+694,9960 Woodfern Rd,9960 Woodfern Rd,Philadelphia,PA,19115,NA,NA,NA,"$2,000",40.10249,-75.037,https://www.apartments.com/9960-woodfern-rd-philadelphia-pa/g80nkzx/
+695,5424 Walnut St,5424 Walnut St,Philadelphia,PA,19139,NA,NA,"$1,050",NA,39.95731,-75.23026,https://www.apartments.com/5424-walnut-st-philadelphia-pa/pn98dps/
+696,1101 N 3rd St,1101 N 3rd St,Philadelphia,PA,19123,NA,NA,"$1,650",NA,39.96778,-75.14177,https://www.apartments.com/1101-n-3rd-st-philadelphia-pa/90xej04/
+697,8211 Rockwell Ave,8211 Rockwell Ave,Philadelphia,PA,19111,NA,NA,"$1,200",NA,40.08181,-75.08232,https://www.apartments.com/8211-rockwell-ave-philadelphia-pa/4xctwvj/
+698,1124 E Passyunk Ave,1124 E Passyunk Ave,Philadelphia,PA,19147,NA,NA,"$1,500",NA,39.93508,-75.15724,https://www.apartments.com/1124-e-passyunk-ave-philadelphia-pa/b66mgq8/
+699,648 E Wensley St,648 E Wensley St,Philadelphia,PA,19134,NA,NA,$888,NA,39.99934,-75.11753,https://www.apartments.com/648-e-wensley-st-philadelphia-pa/gz1c6by/
+700,2405 S Warnock St,2405 S Warnock St,Philadelphia,PA,19148,NA,NA,NA,"$1,500",39.91934,-75.16467,https://www.apartments.com/2405-s-warnock-st-philadelphia-pa/7keek6w/
+701,4552 Baker St,4552 Baker St,Philadelphia,PA,19127,NA,NA,NA,"$1,800",40.02885,-75.22817,https://www.apartments.com/4552-baker-st-philadelphia-pa/0vtcsv1/
+702,The Atlantic,1401 Spruce St,Philadelphia,PA,19102,"$2,165 – 2,315","$2,295 – 6,395","$3,655 – 6,145","$6,005 – 7,845",39.9473,-75.16508,https://www.apartments.com/the-atlantic-philadelphia-pa/hqf41b0/
+703,582 Geneva Ave,582 Geneva Ave,Philadelphia,PA,19120,NA,NA,NA,"$1,550",40.03118,-75.1141,https://www.apartments.com/582-geneva-ave-philadelphia-pa/qe3673x/
+704,861 Barlow St,861 Barlow St,Philadelphia,PA,19116,NA,NA,NA,"$1,850",40.11674,-75.01454,https://www.apartments.com/861-barlow-st-philadelphia-pa/9m4rpl5/
+705,1819 S Broad St,1819 S Broad St,Philadelphia,PA,19148,NA,NA,"$1,500",NA,39.92748,-75.16864,https://www.apartments.com/1819-s-broad-st-philadelphia-pa/tthhk18/
+706,1526 Wolf St,1526 Wolf St,Philadelphia,PA,19145,NA,NA,"$1,550",NA,39.92208,-75.1729,https://www.apartments.com/1526-wolf-st-philadelphia-pa/ng65gvn/
+707,3968 Terrace St,3968 Terrace St,Philadelphia,PA,19128,NA,NA,NA,"$1,600",40.02338,-75.2152,https://www.apartments.com/3968-terrace-st-philadelphia-pa/y1gtv8t/
+708,1218 S 51st St Unit 3,1218 S 51st St Unit 3,Philadelphia,PA,19143,NA,NA,NA,"$1,650",39.94186,-75.21876,https://www.apartments.com/1218-s-51st-st-philadelphia-pa-unit-3/tk3yr3c/
+709,52304 Delaire Landing Rd Unit 304,52304 Delaire Landing Rd Unit 304,Philadelphia,PA,19114,NA,NA,"$1,350",NA,40.04634,-74.99028,https://www.apartments.com/52304-delaire-landing-rd-philadelphia-pa-unit-304/ewfpzkm/
+710,2716 S Cleveland St,2716 S Cleveland St,Philadelphia,PA,19145,NA,NA,NA,"$1,375",39.91734,-75.17873,https://www.apartments.com/2716-s-cleveland-st-philadelphia-pa/4km5j2h/
+711,3232 W Berks St,3232 W Berks St,Philadelphia,PA,19121,NA,NA,"$1,350",NA,39.98539,-75.18709,https://www.apartments.com/3232-w-berks-st-philadelphia-pa/t8zv3t9/
+712,106 S 51st St,106 S 51st St,Philadelphia,PA,19139,NA,NA,NA,"$1,175",39.95796,-75.22353,https://www.apartments.com/106-s-51st-st-philadelphia-pa/txqkrbc/
+713,Canterbury Court Apartment Homes,9951 Academy Rd,Philadelphia,PA,19114,NA,"$1,010 – 1,175",NA,NA,40.07619,-75.0001,https://www.apartments.com/canterbury-court-apartment-homes-philadelphia-pa/1n3t3j6/
+714,4931 Keyser St,4931 Keyser St,Philadelphia,PA,19144,NA,NA,NA,"$1,300",40.02576,-75.16611,https://www.apartments.com/4931-keyser-st-philadelphia-pa/703nnxy/
+715,730 Thomas Rd,730 Thomas Rd,Philadelphia,PA,19118,NA,NA,NA,NA,40.08485,-75.23477,https://www.apartments.com/730-thomas-rd-philadelphia-pa/4774c4l/
+716,2018 Walnut St Unit 8D,2018 Walnut St Unit 8D,Philadelphia,PA,19103,NA,"$1,600",NA,NA,39.9506,-75.1746,https://www.apartments.com/2018-walnut-st-philadelphia-pa-unit-8d/ttckz29/
+717,2439 S Lawrence St,2439 S Lawrence St,Philadelphia,PA,19148,NA,NA,NA,"$1,400",39.91774,-75.15486,https://www.apartments.com/2439-s-lawrence-st-philadelphia-pa/jwj31l5/
+718,5634 Gainor Rd,5634 Gainor Rd,Philadelphia,PA,19131,NA,NA,NA,"$1,475",39.98797,-75.23629,https://www.apartments.com/5634-gainor-rd-philadelphia-pa/bwj2syc/
+719,Madison at Presidential City,3800-3900 City Ave,Philadelphia,PA,19131,"$1,315 – 1,735","$1,480 – 1,915","$1,935 – 2,505","$2,755 – 3,005",40.00822,-75.20968,https://www.apartments.com/madison-at-presidential-city-philadelphia-pa/ry3jv13/
+720,6167 Torresdale Ave,6167 Torresdale Ave,Philadelphia,PA,19135,NA,NA,$900,NA,40.01924,-75.05574,https://www.apartments.com/6167-torresdale-ave-philadelphia-pa/kvnkzb8/
+721,2614 W Oakdale St,2614 W Oakdale St,Philadelphia,PA,19132,NA,NA,NA,"$1,295",39.99594,-75.1746,https://www.apartments.com/2614-w-oakdale-st-philadelphia-pa/ecnq74p/
+722,431 N 40th St,431 N 40th St,Philadelphia,PA,19104,NA,"$1,000",NA,NA,39.96137,-75.20192,https://www.apartments.com/431-n-40th-st-philadelphia-pa/ksxkxt9/
+723,4223 Germantown Ave,4223 Germantown Ave,Philadelphia,PA,19140,NA,$650,NA,NA,40.0188,-75.15518,https://www.apartments.com/4223-germantown-ave-philadelphia-pa/m0gt6dh/
+724,1804 E Wishart St,1804 E Wishart St,Philadelphia,PA,19134,NA,NA,NA,NA,39.99577,-75.11386,https://www.apartments.com/1804-e-wishart-st-philadelphia-pa/6dx8k1v/
+725,Lyndon At The Curtis,601 Walnut St,Philadelphia,PA,19106,"$2,800","$2,875 – 4,700",NA,NA,39.94788,-75.15137,https://www.apartments.com/lyndon-at-the-curtis-philadelphia-pa/pw2ccrr/
+726,230 N Christopher Columbus Blvd Unit 715,230 N Christopher Columbus Blvd Unit 715,Philadelphia,PA,19106,NA,"$2,155",NA,NA,39.95394,-75.1399,https://www.apartments.com/230-n-christopher-columbus-blvd-philadelphia-pa-unit-715/0j9f7v0/
+727,1702 Wallace St,1702 Wallace St,Philadelphia,PA,19130,NA,NA,"$1,800",NA,39.96573,-75.16587,https://www.apartments.com/1702-wallace-st-philadelphia-pa/cpqzrkd/
+728,2126 Earp St,2126 Earp St,Philadelphia,PA,19146,NA,NA,"$1,425",NA,39.93485,-75.18035,https://www.apartments.com/2126-earp-st-philadelphia-pa/xdx9bdn/
+729,956 N 8th St Unit 1,956 N 8th St Unit 1,Philadelphia,PA,19123,NA,NA,NA,"$2,950",39.9697,-75.15039,https://www.apartments.com/956-n-8th-st-philadelphia-pa-unit-1/f8d0p7r/
+730,1419 W Allegheny Ave,1419 W Allegheny Ave,Philadelphia,PA,19132,NA,NA,"$1,800",NA,40.0021,-75.15418,https://www.apartments.com/1419-w-allegheny-ave-philadelphia-pa/m6qt0wk/
+731,Germantown Square,45-47 West Haines St,Philadelphia,PA,19144,NA,"$1,300 – 1,500","$1,750 – 1,900",NA,40.03787,-75.17781,https://www.apartments.com/germantown-square-philadelphia-pa/jyqqn67/
+732,815-37 Arch St Unit 310,815-37 Arch St Unit 310,Philadelphia,PA,19107,NA,NA,"$1,650",NA,39.95379,-75.15413,https://www.apartments.com/815-37-arch-st-philadelphia-pa-unit-310/c25pkqe/
+733,3948 Dell St,3948 Dell St,Philadelphia,PA,19140,NA,NA,NA,"$1,200",40.01344,-75.14992,https://www.apartments.com/3948-dell-st-philadelphia-pa/9c1m3f5/
+734,3300 Henry Ave,3300 Henry Ave,Philadelphia,PA,19129,NA,NA,"$1,399",NA,40.01185,-75.18389,https://www.apartments.com/3300-henry-ave-philadelphia-pa/5zhr7cp/
+735,1819 Carpenter St,1819 Carpenter St,Philadelphia,PA,19146,NA,NA,NA,"$2,750",39.94013,-75.17369,https://www.apartments.com/1819-carpenter-st-philadelphia-pa/4k73bnl/
+736,2350 E Norris St,2350 E Norris St,Philadelphia,PA,19125,NA,NA,NA,NA,39.9771,-75.12819,https://www.apartments.com/2350-e-norris-st-philadelphia-pa/jfvbe66/
+737,SDG Residences of Fairmount,745 N 20th St,Philadelphia,PA,19130,NA,"$1,550 – 1,850","$1,900 – 2,500",NA,39.96829,-75.16249,https://www.apartments.com/sdg-residences-of-fairmount-philadelphia-pa/bbz6jk8/
+738,1101 Washington Ave Unit 705,1101 Washington Ave Unit 705,Philadelphia,PA,19147,NA,"$2,500",NA,NA,39.93789,-75.16036,https://www.apartments.com/1101-washington-ave-philadelphia-pa-unit-705/1sl6cg5/
+739,3178 Agate St,3178 Agate St,Philadelphia,PA,19134,NA,NA,"$1,279",NA,39.98909,-75.10775,https://www.apartments.com/3178-agate-st-philadelphia-pa/n9jkc0n/
+740,2105 Kensington Ave,2105 Kensington Ave,Philadelphia,PA,19125,NA,NA,NA,"$2,200",39.9863,-75.13186,https://www.apartments.com/2105-kensington-ave-philadelphia-pa/bvsqjyb/
+741,1947 S 23rd St,1947 S 23rd St,Philadelphia,PA,19145,NA,NA,NA,"$1,650",39.92767,-75.18389,https://www.apartments.com/1947-s-23rd-st-philadelphia-pa/1tz6874/
+742,2024 Race St Unit 3,2024 Race St Unit 3,Philadelphia,PA,19103,NA,NA,NA,"$2,300",39.95738,-75.17334,https://www.apartments.com/2024-race-st-philadelphia-pa-unit-3/xfdtdfq/
+743,Hamilton Court,3816-3836 S Chestnut St,Philadelphia,PA,19104,NA,"$1,945 – 1,995","$2,845 – 3,095","$3,500 – 3,795",39.95481,-75.19932,https://www.apartments.com/hamilton-court-philadelphia-pa/0pj5gy2/
+744,228 Hermitage St,228 Hermitage St,Philadelphia,PA,19127,NA,NA,NA,NA,40.03244,-75.22882,https://www.apartments.com/228-hermitage-st-philadelphia-pa/z0mrtzx/
+745,6237 Carpenter St,6237 Carpenter St,Philadelphia,PA,19143,NA,NA,"$1,300",NA,39.94957,-75.24904,https://www.apartments.com/6237-carpenter-st-philadelphia-pa/0t1etv3/
+746,1220 Sansom St Unit 1S,1220 Sansom St Unit 1S,Philadelphia,PA,19107,NA,NA,"$2,020",NA,39.94982,-75.16212,https://www.apartments.com/1220-sansom-st-philadelphia-pa-unit-1s/vr9d06d/
+747,1931 E Somerset St,1931 E Somerset St,Philadelphia,PA,19134,NA,NA,NA,$950,39.98975,-75.12083,https://www.apartments.com/1931-e-somerset-st-philadelphia-pa/jl46l95/
+748,6700-6702 Keystone St Unit 1ST FL,6700-6702 Keystone St Unit 1ST FL,Philadelphia,PA,19135,NA,NA,$900,NA,40.02185,-75.04426,https://www.apartments.com/6700-6702-keystone-st-philadelphia-pa-unit-1st-fl/bk07bwc/
+749,Palazzo at The Piazza,1050 N Hancock St,Philadelphia,PA,19123,NA,"$2,150 – 2,945","$2,900 – 3,100",NA,39.96675,-75.1392,https://www.apartments.com/palazzo-at-the-piazza-philadelphia-pa/2szmfl9/
+750,311 E Girard Ave,311 E Girard Ave,Philadelphia,PA,19125,NA,NA,NA,"$2,500",39.97008,-75.13153,https://www.apartments.com/311-e-girard-ave-philadelphia-pa/ldkplnd/
+751,2711 Eddington St,2711 Eddington St,Philadelphia,PA,19137,NA,NA,NA,"$1,400",39.99665,-75.07795,https://www.apartments.com/2711-eddington-st-philadelphia-pa/rb1zep0/
+752,705 N Dekalb St,705 N Dekalb St,Philadelphia,PA,19104,NA,NA,NA,"$1,295",39.96621,-75.197,https://www.apartments.com/705-n-dekalb-st-philadelphia-pa/439jwrh/
+753,3118 N 16th St,3118 N 16th St,Philadelphia,PA,19132,NA,NA,NA,NA,40.00093,-75.15657,https://www.apartments.com/3118-n-16th-st-philadelphia-pa/87tdkx2/
+754,1611 N 33rd St Unit F1,1611 N 33rd St Unit F1,Philadelphia,PA,19121,NA,NA,$925,NA,39.98152,-75.18824,https://www.apartments.com/1611-n-33rd-st-philadelphia-pa-unit-f1/864vys1/
+755,West River Apartments,3601 Conshohocken Ave,Philadelphia,PA,19131,NA,"$1,395 – 1,425","$1,625 – 1,710",NA,40.00424,-75.20324,https://www.apartments.com/west-river-apartments-philadelphia-pa/7c47vez/
+756,2525 Ashford St,2525 Ashford St,Philadelphia,PA,19153,NA,NA,NA,"$1,500",39.91156,-75.24413,https://www.apartments.com/2525-ashford-st-philadelphia-pa/z8pf2xy/
+757,2841 S Randolph St,2841 S Randolph St,Philadelphia,PA,19148,NA,NA,NA,"$1,400",39.91288,-75.1578,https://www.apartments.com/2841-s-randolph-st-philadelphia-pa/fl1e5br/
+758,Liberty Square,1203 Germantown Ave,Philadelphia,PA,19122,NA,"$1,875 – 2,475","$2,450 – 2,995",NA,39.97083,-75.14053,https://www.apartments.com/liberty-square-philadelphia-pa/hy0hmv0/
+759,The Civic,1600-1650 W Girard Ave,Philadelphia,PA,19130,"$1,329 – 1,850","$1,750 – 2,150","$2,292 – 2,521",NA,39.97151,-75.16314,https://www.apartments.com/the-civic-philadelphia-pa/16cseb4/
+760,Diamond Green-Student Housing!!,1000 Diamond St,Philadelphia,PA,19122,NA,NA,NA,NA,39.98361,-75.15002,https://www.apartments.com/diamond-green-student-housing-philadelphia-pa/rx12fs2/
+761,The Station at Manayunk,1 Parker Ave,Philadelphia,PA,19128,NA,"$1,470 – 1,520","$1,964 – 1,994",NA,40.03425,-75.23627,https://www.apartments.com/the-station-at-manayunk-philadelphia-pa/ncwv55n/
+762,The View at Manayunk Apartments,4136-40 Mitchell St,Philadelphia,PA,19128,"$1,295","$1,395 – 1,795","$1,495 – 2,125",NA,40.0269,-75.21192,https://www.apartments.com/the-view-at-manayunk-apartments-philadelphia-pa/rd3g7l0/
+763,"Dobson Studios, Lofts and apartments",4055 Ridge Ave,Philadelphia,PA,19129,"$945 – 1,055","$1,030 – 1,780","$1,430 – 1,980","$2,385 – 2,435",40.00775,-75.18894,https://www.apartments.com/dobson-studios-lofts-and-apartments-philadelphia-pa/z18pmxz/
+764,The Porter,2940 W Thompson St,Philadelphia,PA,19121,"$1,250","$1,400 – 1,700",NA,NA,39.9764,-75.18453,https://www.apartments.com/the-porter-philadelphia-pa/kyf9blc/
+765,Stable Lofts,631 N Broad St,Philadelphia,PA,19123,"$1,750","$1,900 – 2,500","$2,800 – 3,600",NA,39.9645,-75.16052,https://www.apartments.com/stable-lofts-philadelphia-pa/tzp3cnc/
+766,The Wellington,135 S 19th St,Philadelphia,PA,19103,"$1,295","$1,695 – 2,300","$2,750 – 3,200","$7,500",39.95074,-75.17221,https://www.apartments.com/the-wellington-philadelphia-pa/h4qd3v1/
+767,Northbrook Apartment Homes,1340 Stewarts Way,Philadelphia,PA,19154,NA,"$989 – 1,049","$1,169 – 1,219",NA,40.09686,-74.98482,https://www.apartments.com/northbrook-apartment-homes-philadelphia-pa/9mcjb25/
+768,The Mansion at Bala,4700 City Ave,Philadelphia,PA,19131,NA,"$1,345 – 1,815","$1,825 – 2,070","$2,885",40.00113,-75.2252,https://www.apartments.com/the-mansion-at-bala-philadelphia-pa/48hrl8l/
+769,Lennox Apartments,236 W Walnut Ln,Philadelphia,PA,19144,$715 – 755,$825 – 895,NA,NA,40.03645,-75.18273,https://www.apartments.com/lennox-apartments-philadelphia-pa/bm4swb8/
+770,The Legacy at Drexel Arms,6301 Overbrook Ave,Philadelphia,PA,19151,NA,NA,NA,NA,39.98849,-75.2504,https://www.apartments.com/the-legacy-at-drexel-arms-philadelphia-pa/lgelnpg/
+771,The Lofts At Chimney Hill,161 Leverington Ave,Philadelphia,PA,19127,NA,"$1,300 – 1,700","$1,550 – 1,800",NA,40.02987,-75.22745,https://www.apartments.com/the-lofts-at-chimney-hill-philadelphia-pa/cmjwghg/
+772,Salem Harbour,455 Old Bridge Rd,Bensalem,PA,19020,NA,"$1,291 – 1,426","$1,538 – 1,638",NA,40.05504,-74.98002,https://www.apartments.com/salem-harbour-bensalem-pa/h5q6mh3/
+773,The Kelly,10 Union Ave,Bala Cynwyd,PA,19004,NA,"$1,700 – 2,147","$2,550 – 3,620","$3,705 – 3,970",40.00317,-75.22993,https://www.apartments.com/the-kelly-bala-cynwyd-pa/hezp011/
+774,Hamilton Court East Apartments,3455 Street Road,Bensalem,PA,19020,NA,"$999 – 1,149","$1,349",NA,40.12427,-74.96165,https://www.apartments.com/hamilton-court-east-apartments-bensalem-pa/1r0mh55/
+775,Towers at Wyncote,8440 Limekiln Pike,Wyncote,PA,19095,"$1,095 – 1,843","$1,270 – 2,530","$1,400 – 4,169","$2,160 – 4,191",40.085,-75.16492,https://www.apartments.com/towers-at-wyncote-wyncote-pa/dk1pfrl/
